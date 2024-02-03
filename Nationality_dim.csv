@@ -1,0 +1,165 @@
+Nationality_ID,Nationality,Flag
+Nat001,England,https://cdn.sofifa.org/flags/14.png
+Nat002,Germany,https://cdn.sofifa.org/flags/21.png
+Nat003,Poland,https://cdn.sofifa.org/flags/37.png
+Nat004,Italy,https://cdn.sofifa.org/flags/27.png
+Nat005,Canada,https://cdn.sofifa.org/flags/70.png
+Nat006,Norway,https://cdn.sofifa.org/flags/36.png
+Nat007,Scotland,https://cdn.sofifa.org/flags/42.png
+Nat008,Sweden,https://cdn.sofifa.org/flags/46.png
+Nat009,"Republic of Ireland",https://cdn.sofifa.org/flags/25.png
+Nat010,Belgium,https://cdn.sofifa.org/flags/7.png
+Nat011,Chile,https://cdn.sofifa.org/flags/55.png
+Nat012,Spain,https://cdn.sofifa.org/flags/45.png
+Nat013,Austria,https://cdn.sofifa.org/flags/4.png
+Nat014,France,https://cdn.sofifa.org/flags/18.png
+Nat015,Switzerland,https://cdn.sofifa.org/flags/47.png
+Nat016,Wales,https://cdn.sofifa.org/flags/50.png
+Nat017,"Northern Ireland",https://cdn.sofifa.org/flags/35.png
+Nat018,Tunisia,https://cdn.sofifa.org/flags/145.png
+Nat019,Cameroon,https://cdn.sofifa.org/flags/103.png
+Nat020,"Czech Republic",https://cdn.sofifa.org/flags/12.png
+Nat021,"Ivory Coast",https://cdn.sofifa.org/flags/108.png
+Nat022,Portugal,https://cdn.sofifa.org/flags/38.png
+Nat023,Argentina,https://cdn.sofifa.org/flags/52.png
+Nat024,Turkey,https://cdn.sofifa.org/flags/48.png
+Nat025,Denmark,https://cdn.sofifa.org/flags/13.png
+Nat026,Iceland,https://cdn.sofifa.org/flags/24.png
+Nat027,Brazil,https://cdn.sofifa.org/flags/54.png
+Nat028,Finland,https://cdn.sofifa.org/flags/17.png
+Nat029,Jamaica,https://cdn.sofifa.org/flags/82.png
+Nat030,"Korea Republic",https://cdn.sofifa.org/flags/167.png
+Nat031,Netherlands,https://cdn.sofifa.org/flags/34.png
+Nat032,"United States",https://cdn.sofifa.org/flags/95.png
+Nat033,"FYR Macedonia",https://cdn.sofifa.org/flags/19.png
+Nat034,"El Salvador",https://cdn.sofifa.org/flags/76.png
+Nat035,Morocco,https://cdn.sofifa.org/flags/129.png
+Nat036,Australia,https://cdn.sofifa.org/flags/195.png
+Nat037,Mexico,https://cdn.sofifa.org/flags/83.png
+Nat038,Slovenia,https://cdn.sofifa.org/flags/44.png
+Nat039,Uruguay,https://cdn.sofifa.org/flags/60.png
+Nat040,Algeria,https://cdn.sofifa.org/flags/97.png
+Nat041,Madagascar,https://cdn.sofifa.org/flags/124.png
+Nat042,"China PR",https://cdn.sofifa.org/flags/155.png
+Nat043,Croatia,https://cdn.sofifa.org/flags/10.png
+Nat044,Japan,https://cdn.sofifa.org/flags/163.png
+Nat045,Paraguay,https://cdn.sofifa.org/flags/58.png
+Nat046,Estonia,https://cdn.sofifa.org/flags/208.png
+Nat047,Greece,https://cdn.sofifa.org/flags/22.png
+Nat048,Ukraine,https://cdn.sofifa.org/flags/49.png
+Nat049,Angola,https://cdn.sofifa.org/flags/98.png
+Nat050,"Bosnia Herzegovina",https://cdn.sofifa.org/flags/8.png
+Nat051,Nigeria,https://cdn.sofifa.org/flags/133.png
+Nat052,Russia,https://cdn.sofifa.org/flags/40.png
+Nat053,Romania,https://cdn.sofifa.org/flags/39.png
+Nat054,Oman,https://cdn.sofifa.org/flags/178.png
+Nat055,"DR Congo",https://cdn.sofifa.org/flags/110.png
+Nat056,Bolivia,https://cdn.sofifa.org/flags/53.png
+Nat057,Ethiopia,https://cdn.sofifa.org/flags/114.png
+Nat058,Egypt,https://cdn.sofifa.org/flags/111.png
+Nat059,Colombia,https://cdn.sofifa.org/flags/56.png
+Nat060,Kosovo,https://cdn.sofifa.org/flags/219.png
+Nat061,Mali,https://cdn.sofifa.org/flags/126.png
+Nat062,Peru,https://cdn.sofifa.org/flags/59.png
+Nat063,Ghana,https://cdn.sofifa.org/flags/117.png
+Nat064,"Burkina Faso",https://cdn.sofifa.org/flags/101.png
+Nat065,Togo,https://cdn.sofifa.org/flags/144.png
+Nat066,Slovakia,https://cdn.sofifa.org/flags/43.png
+Nat067,Venezuela,https://cdn.sofifa.org/flags/61.png
+Nat068,Barbados,https://cdn.sofifa.org/flags/66.png
+Nat069,"New Zealand",https://cdn.sofifa.org/flags/198.png
+Nat070,"Puerto Rico",https://cdn.sofifa.org/flags/88.png
+Nat071,Israel,https://cdn.sofifa.org/flags/26.png
+Nat072,Cyprus,https://cdn.sofifa.org/flags/11.png
+Nat073,Haiti,https://cdn.sofifa.org/flags/80.png
+Nat074,Guyana,https://cdn.sofifa.org/flags/79.png
+Nat075,Serbia,https://cdn.sofifa.org/flags/51.png
+Nat076,Ecuador,https://cdn.sofifa.org/flags/57.png
+Nat077,Senegal,https://cdn.sofifa.org/flags/136.png
+Nat078,Eritrea,https://cdn.sofifa.org/flags/113.png
+Nat079,Palestine,https://cdn.sofifa.org/flags/180.png
+Nat080,"Saudi Arabia",https://cdn.sofifa.org/flags/183.png
+Nat081,Guinea,https://cdn.sofifa.org/flags/118.png
+Nat082,Bulgaria,https://cdn.sofifa.org/flags/9.png
+Nat083,Albania,https://cdn.sofifa.org/flags/1.png
+Nat084,"Costa Rica",https://cdn.sofifa.org/flags/72.png
+Nat085,Latvia,https://cdn.sofifa.org/flags/28.png
+Nat086,Panama,https://cdn.sofifa.org/flags/87.png
+Nat087,Honduras,https://cdn.sofifa.org/flags/81.png
+Nat088,Gabon,https://cdn.sofifa.org/flags/115.png
+Nat089,"Sierra Leone",https://cdn.sofifa.org/flags/138.png
+Nat090,Armenia,https://cdn.sofifa.org/flags/3.png
+Nat091,Lithuania,https://cdn.sofifa.org/flags/30.png
+Nat092,Azerbaijan,https://cdn.sofifa.org/flags/5.png
+Nat093,"South Africa",https://cdn.sofifa.org/flags/140.png
+Nat094,"Cape Verde",https://cdn.sofifa.org/flags/104.png
+Nat095,Hungary,https://cdn.sofifa.org/flags/23.png
+Nat096,Montenegro,https://cdn.sofifa.org/flags/15.png
+Nat097,"Korea DPR",https://cdn.sofifa.org/flags/166.png
+Nat098,Gambia,https://cdn.sofifa.org/flags/116.png
+Nat099,Uzbekistan,https://cdn.sofifa.org/flags/191.png
+Nat100,Moldova,https://cdn.sofifa.org/flags/33.png
+Nat101,Congo,https://cdn.sofifa.org/flags/107.png
+Nat102,Kazakhstan,https://cdn.sofifa.org/flags/165.png
+Nat103,Comoros,https://cdn.sofifa.org/flags/214.png
+Nat104,Montserrat,https://cdn.sofifa.org/flags/84.png
+Nat105,Georgia,https://cdn.sofifa.org/flags/20.png
+Nat106,Belarus,https://cdn.sofifa.org/flags/6.png
+Nat107,Benin,https://cdn.sofifa.org/flags/99.png
+Nat108,Niger,https://cdn.sofifa.org/flags/132.png
+Nat109,Luxembourg,https://cdn.sofifa.org/flags/31.png
+Nat110,Kenya,https://cdn.sofifa.org/flags/120.png
+Nat111,Curacao,https://cdn.sofifa.org/flags/85.png
+Nat112,Zimbabwe,https://cdn.sofifa.org/flags/148.png
+Nat113,Iran,https://cdn.sofifa.org/flags/161.png
+Nat114,Zambia,https://cdn.sofifa.org/flags/147.png
+Nat115,Iraq,https://cdn.sofifa.org/flags/162.png
+Nat116,Guam,https://cdn.sofifa.org/flags/157.png
+Nat117,India,https://cdn.sofifa.org/flags/159.png
+Nat118,Cuba,https://cdn.sofifa.org/flags/73.png
+Nat119,"Trinidad & Tobago",https://cdn.sofifa.org/flags/93.png
+Nat120,"St Kitts Nevis",https://cdn.sofifa.org/flags/89.png
+Nat121,Andorra,https://cdn.sofifa.org/flags/2.png
+Nat122,Philippines,https://cdn.sofifa.org/flags/181.png
+Nat123,Suriname,https://cdn.sofifa.org/flags/92.png
+Nat124,Thailand,https://cdn.sofifa.org/flags/188.png
+Nat125,Bermuda,https://cdn.sofifa.org/flags/68.png
+Nat126,"Guinea Bissau",https://cdn.sofifa.org/flags/119.png
+Nat127,"Faroe Islands",https://cdn.sofifa.org/flags/16.png
+Nat128,Nicaragua,https://cdn.sofifa.org/flags/86.png
+Nat129,Fiji,https://cdn.sofifa.org/flags/197.png
+Nat130,Mozambique,https://cdn.sofifa.org/flags/130.png
+Nat131,"Antigua & Barbuda",https://cdn.sofifa.org/flags/63.png
+Nat132,Liechtenstein,https://cdn.sofifa.org/flags/29.png
+Nat133,Mauritius,https://cdn.sofifa.org/flags/128.png
+Nat134,"New Caledonia",https://cdn.sofifa.org/flags/215.png
+Nat135,"Equatorial Guinea",https://cdn.sofifa.org/flags/112.png
+Nat136,Guatemala,https://cdn.sofifa.org/flags/78.png
+Nat137,"Central African Rep.",https://cdn.sofifa.org/flags/105.png
+Nat138,Libya,https://cdn.sofifa.org/flags/123.png
+Nat139,Grenada,https://cdn.sofifa.org/flags/77.png
+Nat140,Burundi,https://cdn.sofifa.org/flags/102.png
+Nat141,"São Tomé & Príncipe",https://cdn.sofifa.org/flags/135.png
+Nat142,Syria,https://cdn.sofifa.org/flags/186.png
+Nat143,Malta,https://cdn.sofifa.org/flags/32.png
+Nat144,Uganda,https://cdn.sofifa.org/flags/146.png
+Nat145,"St Lucia",https://cdn.sofifa.org/flags/90.png
+Nat146,Lebanon,https://cdn.sofifa.org/flags/171.png
+Nat147,Namibia,https://cdn.sofifa.org/flags/131.png
+Nat148,Tanzania,https://cdn.sofifa.org/flags/143.png
+Nat149,Kuwait,https://cdn.sofifa.org/flags/168.png
+Nat150,"Dominican Republic",https://cdn.sofifa.org/flags/207.png
+Nat151,Afghanistan,https://cdn.sofifa.org/flags/149.png
+Nat152,Mauritania,https://cdn.sofifa.org/flags/127.png
+Nat153,Jordan,https://cdn.sofifa.org/flags/164.png
+Nat154,Liberia,https://cdn.sofifa.org/flags/122.png
+Nat155,Chad,https://cdn.sofifa.org/flags/106.png
+Nat156,Belize,https://cdn.sofifa.org/flags/67.png
+Nat157,Sudan,https://cdn.sofifa.org/flags/141.png
+Nat158,Botswana,https://cdn.sofifa.org/flags/100.png
+Nat159,"Hong Kong",https://cdn.sofifa.org/flags/158.png
+Nat160,"South Sudan",https://cdn.sofifa.org/flags/218.png
+Nat161,Rwanda,https://cdn.sofifa.org/flags/134.png
+Nat162,Indonesia,https://cdn.sofifa.org/flags/160.png
+Nat163,"United Arab Emirates",https://cdn.sofifa.org/flags/190.png
+Nat164,Qatar,https://cdn.sofifa.org/flags/182.png

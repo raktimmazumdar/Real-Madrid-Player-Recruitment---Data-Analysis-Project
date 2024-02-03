@@ -1,0 +1,54 @@
+# The following code to create a dataframe and remove duplicated rows is always executed and acts as a preamble for your script: 
+
+# dataset = pandas.DataFrame(undefined, undefined.1)
+# dataset = dataset.drop_duplicates()
+
+# Paste or type your script code here:
+
+import pandas as pd #handle the dataframes
+import numpy as np #Importing Numpy Library
+import matplotlib.pyplot as plt #Importing MatPlotLib Library
+import plotly.express as px #plot the radar charts
+import plotly.graph_objects as go
+
+# Assuming your DataFrame is named 'merged_df'
+
+# Define the attributes and player names
+attributes = ['Crossing', 'Finishing', 'HeadingAccuracy', 'ShortPassing', 'Volleys',
+              'Dribbling', 'Curve', 'FKAccuracy', 'LongPassing', 'LongShots',
+              'Aggression', 'Interceptions', 'Positioning', 'Vision', 'Penalties',
+              'Composure', 'Marking', 'StandingTackle', 'SlidingTackle']
+
+player_names = dataset['Name']
+
+# Create a radar chart for each player
+fig = go.Figure()
+
+for _, player in dataset.iterrows():
+    values = player[attributes].tolist()  # Extract values for each attribute
+    values += [values[0]]  # Close the radar chart by repeating the first value
+    fig.add_trace(go.Scatterpolar(
+        r=values,
+        theta=attributes + [attributes[0]],  # Repeat the first attribute for closing the radar
+        fill='toself',
+        name=player['Name']
+    ))
+
+# Set the layout for the radar chart
+fig.update_layout(
+    polar=dict(
+        radialaxis=dict(
+            visible=True,
+            range=[0, 100],
+            tickvals=list(range(0, 101, 20)),  # Tick values at 0, 20, 40, ..., 100
+        ),
+    ),
+    showlegend=True
+)
+
+# Show the radar chart
+fig.show()
+_____________________________________________________________________________________________________________
+
+
+

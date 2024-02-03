@@ -1,0 +1,652 @@
+Club_ID,Club,Club_Logo
+C00001,"Bradford City",https://cdn.sofifa.org/teams/2/light/1804.png
+C00002,"Yeovil Town",https://cdn.sofifa.org/teams/2/light/346.png
+C00003,"SC Paderborn 07",https://cdn.sofifa.org/teams/2/light/10030.png
+C00004,"Birmingham City",https://cdn.sofifa.org/teams/2/light/88.png
+C00005,"FC Erzgebirge Aue",https://cdn.sofifa.org/teams/2/light/506.png
+C00006,Chelsea,https://cdn.sofifa.org/teams/2/light/5.png
+C00007,Cagliari,https://cdn.sofifa.org/teams/2/light/1842.png
+C00008,Spezia,https://cdn.sofifa.org/teams/2/light/110741.png
+C00009,Padova,https://cdn.sofifa.org/teams/2/light/110912.png
+C00010,"Exeter City",https://cdn.sofifa.org/teams/2/light/143.png
+C00011,AIK,https://cdn.sofifa.org/teams/2/light/433.png
+C00012,"Hertha BSC",https://cdn.sofifa.org/teams/2/light/166.png
+C00013,Kilmarnock,https://cdn.sofifa.org/teams/2/light/82.png
+C00014,"FK Haugesund",https://cdn.sofifa.org/teams/2/light/1463.png
+C00015,"IF Elfsborg",https://cdn.sofifa.org/teams/2/light/700.png
+C00016,"SK Brann",https://cdn.sofifa.org/teams/2/light/919.png
+C00017,Morecambe,https://cdn.sofifa.org/teams/2/light/357.png
+C00018,"SpVgg Unterhaching",https://cdn.sofifa.org/teams/2/light/172.png
+C00019,"Standard de Liège",https://cdn.sofifa.org/teams/2/light/232.png
+C00020,Colo-Colo,https://cdn.sofifa.org/teams/2/light/110980.png
+C00021,"Pogo? Szczecin",https://cdn.sofifa.org/teams/2/light/110746.png
+C00022,"Wis?a Kraków",https://cdn.sofifa.org/teams/2/light/1873.png
+C00023,Bournemouth,https://cdn.sofifa.org/teams/2/light/1943.png
+C00024,Lecce,https://cdn.sofifa.org/teams/2/light/347.png
+C00025,"Athletic Club de Bilbao",https://cdn.sofifa.org/teams/2/light/448.png
+C00026,Sassuolo,https://cdn.sofifa.org/teams/2/light/111974.png
+C00027,"FC Schalke 04",https://cdn.sofifa.org/teams/2/light/34.png
+C00028,"Olympique de Marseille",https://cdn.sofifa.org/teams/2/light/219.png
+C00029,"AJ Auxerre",https://cdn.sofifa.org/teams/2/light/57.png
+C00030,"FC Dallas",https://cdn.sofifa.org/teams/2/light/695.png
+C00031,Arsenal,https://cdn.sofifa.org/teams/2/light/1.png
+C00032,"Newport County",https://cdn.sofifa.org/teams/2/light/112254.png
+C00033,"Crewe Alexandra",https://cdn.sofifa.org/teams/2/light/121.png
+C00034,"Rangers FC",https://cdn.sofifa.org/teams/2/light/86.png
+C00035,"Rayo Vallecano",https://cdn.sofifa.org/teams/2/light/480.png
+C00036,"Beijing Sinobo Guoan FC",https://cdn.sofifa.org/teams/2/light/111768.png
+C00037,"Shamrock Rovers",https://cdn.sofifa.org/teams/2/light/306.png
+C00038,"Cádiz CF",https://cdn.sofifa.org/teams/2/light/1968.png
+C00039,"Real Sociedad",https://cdn.sofifa.org/teams/2/light/457.png
+C00040,"RCD Mallorca",https://cdn.sofifa.org/teams/2/light/453.png
+C00041,"Real Valladolid CF",https://cdn.sofifa.org/teams/2/light/462.png
+C00042,"SD Eibar",https://cdn.sofifa.org/teams/2/light/467.png
+C00043,"Swindon Town",https://cdn.sofifa.org/teams/2/light/1934.png
+C00044,"ESTAC Troyes",https://cdn.sofifa.org/teams/2/light/294.png
+C00045,Blackpool,https://cdn.sofifa.org/teams/2/light/1926.png
+C00046,"Fenerbahçe SK",https://cdn.sofifa.org/teams/2/light/326.png
+C00047,"FC Girondins de Bordeaux",https://cdn.sofifa.org/teams/2/light/59.png
+C00048,"Sporting CP",https://cdn.sofifa.org/teams/2/light/237.png
+C00049,"FC Metz",https://cdn.sofifa.org/teams/2/light/68.png
+C00050,"Le Havre AC",https://cdn.sofifa.org/teams/2/light/1738.png
+C00051,"New York City FC",https://cdn.sofifa.org/teams/2/light/112828.png
+C00052,"Elche CF",https://cdn.sofifa.org/teams/2/light/468.png
+C00053,"Scunthorpe United",https://cdn.sofifa.org/teams/2/light/1949.png
+C00054,"Lincoln City",https://cdn.sofifa.org/teams/2/light/149.png
+C00055,"BSC Young Boys",https://cdn.sofifa.org/teams/2/light/900.png
+C00056,"Girona FC",https://cdn.sofifa.org/teams/2/light/110062.png
+C00057,"AS Monaco",https://cdn.sofifa.org/teams/2/light/69.png
+C00058,"UD Las Palmas",https://cdn.sofifa.org/teams/2/light/472.png
+C00059,"Montreal Impact",https://cdn.sofifa.org/teams/2/light/111139.png
+C00060,Millwall,https://cdn.sofifa.org/teams/2/light/97.png
+C00061,"Valenciennes FC",https://cdn.sofifa.org/teams/2/light/110456.png
+C00062,"Red Star FC",https://cdn.sofifa.org/teams/2/light/111273.png
+C00063,"Paris Saint-Germain",https://cdn.sofifa.org/teams/2/light/73.png
+C00064,"Livingston FC",https://cdn.sofifa.org/teams/2/light/621.png
+C00065,Rochdale,https://cdn.sofifa.org/teams/2/light/1955.png
+C00066,Middlesbrough,https://cdn.sofifa.org/teams/2/light/12.png
+C00067,"BK Häcken",https://cdn.sofifa.org/teams/2/light/711.png
+C00068,"West Bromwich Albion",https://cdn.sofifa.org/teams/2/light/109.png
+C00069,Benevento,https://cdn.sofifa.org/teams/2/light/112026.png
+C00070,"Nottingham Forest",https://cdn.sofifa.org/teams/2/light/14.png
+C00071,"Oxford United",https://cdn.sofifa.org/teams/2/light/1951.png
+C00072,"Be?ikta? JK",https://cdn.sofifa.org/teams/2/light/327.png
+C00073,"FC Red Bull Salzburg",https://cdn.sofifa.org/teams/2/light/191.png
+C00074,"1. FSV Mainz 05",https://cdn.sofifa.org/teams/2/light/169.png
+C00075,"Fortuna Düsseldorf",https://cdn.sofifa.org/teams/2/light/110636.png
+C00076,"Chicago Fire",https://cdn.sofifa.org/teams/2/light/693.png
+C00077,"SC Fortuna Köln",https://cdn.sofifa.org/teams/2/light/110169.png
+C00078,"Eintracht Braunschweig",https://cdn.sofifa.org/teams/2/light/110500.png
+C00079,"FSV Zwickau",https://cdn.sofifa.org/teams/2/light/110592.png
+C00080,Hibernian,https://cdn.sofifa.org/teams/2/light/81.png
+C00081,"FC Ingolstadt 04",https://cdn.sofifa.org/teams/2/light/111239.png
+C00082,Sivasspor,https://cdn.sofifa.org/teams/2/light/101041.png
+C00083,Pescara,https://cdn.sofifa.org/teams/2/light/200.png
+C00084,"Atiker Konyaspor",https://cdn.sofifa.org/teams/2/light/101033.png
+C00085,Trabzonspor,https://cdn.sofifa.org/teams/2/light/436.png
+C00086,"Kasimpa?a SK",https://cdn.sofifa.org/teams/2/light/111339.png
+C00087,"Galatasaray SK",https://cdn.sofifa.org/teams/2/light/325.png
+C00088,"Akhisar Belediyespor",https://cdn.sofifa.org/teams/2/light/111340.png
+C00089,"FC København",https://cdn.sofifa.org/teams/2/light/819.png
+C00090,Kayserispor,https://cdn.sofifa.org/teams/2/light/101020.png
+C00091,"Çaykur Rizespor",https://cdn.sofifa.org/teams/2/light/101037.png
+C00092,Alanyaspor,https://cdn.sofifa.org/teams/2/light/113142.png
+C00093,"LASK Linz",https://cdn.sofifa.org/teams/2/light/252.png
+C00094,Reading,https://cdn.sofifa.org/teams/2/light/1793.png
+C00095,"Aalborg BK",https://cdn.sofifa.org/teams/2/light/820.png
+C00096,"FC Midtjylland",https://cdn.sofifa.org/teams/2/light/1516.png
+C00097,Frosinone,https://cdn.sofifa.org/teams/2/light/111657.png
+C00098,"La Berrichonne de Châteauroux",https://cdn.sofifa.org/teams/2/light/212.png
+C00099,"Northampton Town",https://cdn.sofifa.org/teams/2/light/1930.png
+C00100,Celtic,https://cdn.sofifa.org/teams/2/light/78.png
+C00101,"SpVgg Greuther Fürth",https://cdn.sofifa.org/teams/2/light/165.png
+C00102,"NAC Breda",https://cdn.sofifa.org/teams/2/light/1904.png
+C00103,SønderjyskE,https://cdn.sofifa.org/teams/2/light/1447.png
+C00104,Burnley,https://cdn.sofifa.org/teams/2/light/1796.png
+C00105,"Wolfsberger AC",https://cdn.sofifa.org/teams/2/light/111822.png
+C00106,"GFC Ajaccio",https://cdn.sofifa.org/teams/2/light/110316.png
+C00107,Watford,https://cdn.sofifa.org/teams/2/light/1795.png
+C00108,"Manchester City",https://cdn.sofifa.org/teams/2/light/10.png
+C00109,"CD Nacional",https://cdn.sofifa.org/teams/2/light/1891.png
+C00110,"Bristol City",https://cdn.sofifa.org/teams/2/light/1919.png
+C00111,"Neuchâtel Xamax",https://cdn.sofifa.org/teams/2/light/435.png
+C00112,"CD O'Higgins",https://cdn.sofifa.org/teams/2/light/112116.png
+C00113,"RCD Espanyol",https://cdn.sofifa.org/teams/2/light/452.png
+C00114,"Al Ahli",https://cdn.sofifa.org/teams/2/light/112387.png
+C00115,"Venezia FC",https://cdn.sofifa.org/teams/2/light/205.png
+C00116,"Sporting Lokeren",https://cdn.sofifa.org/teams/2/light/2007.png
+C00117,"Santa Clara",https://cdn.sofifa.org/teams/2/light/1438.png
+C00118,"Leicester City",https://cdn.sofifa.org/teams/2/light/95.png
+C00119,"Gangwon FC",https://cdn.sofifa.org/teams/2/light/112115.png
+C00120,"Jeonbuk Hyundai Motors",https://cdn.sofifa.org/teams/2/light/1477.png
+C00121,"Ulsan Hyundai FC",https://cdn.sofifa.org/teams/2/light/1473.png
+C00122,"SC Heerenveen",https://cdn.sofifa.org/teams/2/light/1913.png
+C00123,"LA Galaxy",https://cdn.sofifa.org/teams/2/light/697.png
+C00124,"Fleetwood Town",https://cdn.sofifa.org/teams/2/light/112260.png
+C00125,Juventus,https://cdn.sofifa.org/teams/2/light/45.png
+C00126,"CD Palestino",https://cdn.sofifa.org/teams/2/light/111328.png
+C00127,"Columbus Crew SC",https://cdn.sofifa.org/teams/2/light/687.png
+C00128,"FC Augsburg",https://cdn.sofifa.org/teams/2/light/100409.png
+C00129,"KV Kortrijk",https://cdn.sofifa.org/teams/2/light/100081.png
+C00130,"Hellas Verona",https://cdn.sofifa.org/teams/2/light/206.png
+C00131,Parma,https://cdn.sofifa.org/teams/2/light/50.png
+C00132,"US Cremonese",https://cdn.sofifa.org/teams/2/light/111434.png
+C00133,Brescia,https://cdn.sofifa.org/teams/2/light/190.png
+C00134,"US Salernitana 1919",https://cdn.sofifa.org/teams/2/light/110373.png
+C00135,Genoa,https://cdn.sofifa.org/teams/2/light/110556.png
+C00136,Vitesse,https://cdn.sofifa.org/teams/2/light/1909.png
+C00137,"Tottenham Hotspur",https://cdn.sofifa.org/teams/2/light/18.png
+C00138,Excelsior,https://cdn.sofifa.org/teams/2/light/1971.png
+C00139,"Karlsruher SC",https://cdn.sofifa.org/teams/2/light/1832.png
+C00140,"1. FC Kaiserslautern",https://cdn.sofifa.org/teams/2/light/29.png
+C00141,Empoli,https://cdn.sofifa.org/teams/2/light/1746.png
+C00142,"KAS Eupen",https://cdn.sofifa.org/teams/2/light/2013.png
+C00143,"AC Horsens",https://cdn.sofifa.org/teams/2/light/1446.png
+C00144,"Grimsby Town",https://cdn.sofifa.org/teams/2/light/92.png
+C00145,"Rotherham United",https://cdn.sofifa.org/teams/2/light/1797.png
+C00146,Stevenage,https://cdn.sofifa.org/teams/2/light/361.png
+C00147,"Southend United",https://cdn.sofifa.org/teams/2/light/1954.png
+C00148,"St. Johnstone FC",https://cdn.sofifa.org/teams/2/light/100804.png
+C00149,"Bolton Wanderers",https://cdn.sofifa.org/teams/2/light/4.png
+C00150,"Houston Dynamo",https://cdn.sofifa.org/teams/2/light/698.png
+C00151,"Górnik Zabrze",https://cdn.sofifa.org/teams/2/light/420.png
+C00152,"Brisbane Roar",https://cdn.sofifa.org/teams/2/light/111395.png
+C00153,"FC Lugano",https://cdn.sofifa.org/teams/2/light/10032.png
+C00154,"Plymouth Argyle",https://cdn.sofifa.org/teams/2/light/1929.png
+C00155,Liverpool,https://cdn.sofifa.org/teams/2/light/9.png
+C00156,"Hamilton Academical FC",https://cdn.sofifa.org/teams/2/light/184.png
+C00157,"Ipswich Town",https://cdn.sofifa.org/teams/2/light/94.png
+C00158,"Shandong Luneng TaiShan FC",https://cdn.sofifa.org/teams/2/light/111724.png
+C00159,"Viktoria Plze?",https://cdn.sofifa.org/teams/2/light/110468.png
+C00160,"Sheffield Wednesday",https://cdn.sofifa.org/teams/2/light/1807.png
+C00161,Bologna,https://cdn.sofifa.org/teams/2/light/189.png
+C00162,"Oldham Athletic",https://cdn.sofifa.org/teams/2/light/1920.png
+C00163,"Stoke City",https://cdn.sofifa.org/teams/2/light/1806.png
+C00164,"River Plate",https://cdn.sofifa.org/teams/2/light/1876.png
+C00165,"Macclesfield Town",https://cdn.sofifa.org/teams/2/light/1959.png
+C00166,"Milton Keynes Dons",https://cdn.sofifa.org/teams/2/light/1798.png
+C00167,"CD Feirense",https://cdn.sofifa.org/teams/2/light/10019.png
+C00168,"Club Atlético Colón",https://cdn.sofifa.org/teams/2/light/110406.png
+C00169,"Patriotas Boyacá FC",https://cdn.sofifa.org/teams/2/light/112527.png
+C00170,"Club Tijuana",https://cdn.sofifa.org/teams/2/light/111678.png
+C00171,Guadalajara,https://cdn.sofifa.org/teams/2/light/1880.png
+C00172,"FC St. Gallen",https://cdn.sofifa.org/teams/2/light/898.png
+C00173,"Chievo Verona",https://cdn.sofifa.org/teams/2/light/192.png
+C00174,"Derby County",https://cdn.sofifa.org/teams/2/light/91.png
+C00175,"Notts County",https://cdn.sofifa.org/teams/2/light/1937.png
+C00176,"Port Vale",https://cdn.sofifa.org/teams/2/light/1928.png
+C00177,"Suwon Samsung Bluewings",https://cdn.sofifa.org/teams/2/light/983.png
+C00178,"Wycombe Wanderers",https://cdn.sofifa.org/teams/2/light/1933.png
+C00179,"Lobos BUAP",https://cdn.sofifa.org/teams/2/light/111035.png
+C00180,"Aston Villa",https://cdn.sofifa.org/teams/2/light/2.png
+C00181,"Blackburn Rovers",https://cdn.sofifa.org/teams/2/light/3.png
+C00182,"RSC Anderlecht",https://cdn.sofifa.org/teams/2/light/229.png
+C00183,"Gimnasia y Esgrima La Plata",https://cdn.sofifa.org/teams/2/light/101084.png
+C00184,"Olympique Lyonnais",https://cdn.sofifa.org/teams/2/light/66.png
+C00185,Sunderland,https://cdn.sofifa.org/teams/2/light/106.png
+C00186,"Guizhou Hengfeng FC",https://cdn.sofifa.org/teams/2/light/112977.png
+C00187,Pachuca,https://cdn.sofifa.org/teams/2/light/110147.png
+C00188,"Club Necaxa",https://cdn.sofifa.org/teams/2/light/101121.png
+C00189,"Kashima Antlers",https://cdn.sofifa.org/teams/2/light/101147.png
+C00190,"Nagoya Grampus",https://cdn.sofifa.org/teams/2/light/112092.png
+C00191,"Gamba Osaka",https://cdn.sofifa.org/teams/2/light/112093.png
+C00192,"Júbilo Iwata",https://cdn.sofifa.org/teams/2/light/101144.png
+C00193,Roma,https://cdn.sofifa.org/teams/2/light/52.png
+C00194,"Derry City",https://cdn.sofifa.org/teams/2/light/445.png
+C00195,"Cardiff City",https://cdn.sofifa.org/teams/2/light/1961.png
+C00196,"Queens Park Rangers",https://cdn.sofifa.org/teams/2/light/15.png
+C00197,"Burton Albion",https://cdn.sofifa.org/teams/2/light/15015.png
+C00198,"Doncaster Rovers",https://cdn.sofifa.org/teams/2/light/142.png
+C00199,"Heart of Midlothian",https://cdn.sofifa.org/teams/2/light/80.png
+C00200,Livorno,https://cdn.sofifa.org/teams/2/light/1844.png
+C00201,"Hull City",https://cdn.sofifa.org/teams/2/light/1952.png
+C00202,"Vålerenga Fotball",https://cdn.sofifa.org/teams/2/light/920.png
+C00203,"FC Wacker Innsbruck",https://cdn.sofifa.org/teams/2/light/2045.png
+C00204,"Shonan Bellmare",https://cdn.sofifa.org/teams/2/light/113161.png
+C00205,"SV Zulte-Waregem",https://cdn.sofifa.org/teams/2/light/15005.png
+C00206,"Randers FC",https://cdn.sofifa.org/teams/2/light/1786.png
+C00207,"Al Fayha",https://cdn.sofifa.org/teams/2/light/113057.png
+C00208,"Cork City",https://cdn.sofifa.org/teams/2/light/422.png
+C00209,"CF Rayo Majadahonda",https://cdn.sofifa.org/teams/2/light/110066.png
+C00210,"CD Tenerife",https://cdn.sofifa.org/teams/2/light/260.png
+C00211,"Club Atlético Huracán",https://cdn.sofifa.org/teams/2/light/111711.png
+C00212,"Estudiantes de La Plata",https://cdn.sofifa.org/teams/2/light/101083.png
+C00213,"Racing Club",https://cdn.sofifa.org/teams/2/light/101085.png
+C00214,"Hebei China Fortune FC",https://cdn.sofifa.org/teams/2/light/112978.png
+C00215,"Unión de Santa Fe",https://cdn.sofifa.org/teams/2/light/111716.png
+C00216,"Club Atlético Tigre",https://cdn.sofifa.org/teams/2/light/111715.png
+C00217,"San Lorenzo de Almagro",https://cdn.sofifa.org/teams/2/light/1013.png
+C00218,"West Ham United",https://cdn.sofifa.org/teams/2/light/19.png
+C00219,"San Martín de San Juan",https://cdn.sofifa.org/teams/2/light/111713.png
+C00220,"Vélez Sarsfield",https://cdn.sofifa.org/teams/2/light/101088.png
+C00221,"Defensa y Justicia",https://cdn.sofifa.org/teams/2/light/111710.png
+C00222,"Shakhtar Donetsk",https://cdn.sofifa.org/teams/2/light/101059.png
+C00223,"Club Atlético Talleres",https://cdn.sofifa.org/teams/2/light/112670.png
+C00224,"Villarreal CF",https://cdn.sofifa.org/teams/2/light/483.png
+C00225,"Belgrano de Córdoba",https://cdn.sofifa.org/teams/2/light/111022.png
+C00226,"CD Universidad de Concepción",https://cdn.sofifa.org/teams/2/light/112534.png
+C00227,"Boca Juniors",https://cdn.sofifa.org/teams/2/light/1877.png
+C00228,"Rosario Central",https://cdn.sofifa.org/teams/2/light/110580.png
+C00229,"Universidad de Chile",https://cdn.sofifa.org/teams/2/light/15029.png
+C00230,Atalanta,https://cdn.sofifa.org/teams/2/light/39.png
+C00231,"América de Cali",https://cdn.sofifa.org/teams/2/light/101099.png
+C00232,"Club Atlético Aldosivi",https://cdn.sofifa.org/teams/2/light/111707.png
+C00233,Antalyaspor,https://cdn.sofifa.org/teams/2/light/741.png
+C00234,"Medipol Ba?ak?ehir FK",https://cdn.sofifa.org/teams/2/light/101014.png
+C00235,"MKE Ankaragücü",https://cdn.sofifa.org/teams/2/light/101007.png
+C00236,"FC Luzern",https://cdn.sofifa.org/teams/2/light/897.png
+C00237,"Dundee FC",https://cdn.sofifa.org/teams/2/light/180.png
+C00238,"BB Erzurumspor",https://cdn.sofifa.org/teams/2/light/749.png
+C00239,"Borussia Mönchengladbach",https://cdn.sofifa.org/teams/2/light/23.png
+C00240,"Perth Glory",https://cdn.sofifa.org/teams/2/light/111399.png
+C00241,"Brighton & Hove Albion",https://cdn.sofifa.org/teams/2/light/1808.png
+C00242,"AD Alcorcón",https://cdn.sofifa.org/teams/2/light/100831.png
+C00243,"Shimizu S-Pulse",https://cdn.sofifa.org/teams/2/light/101149.png
+C00244,"CD Lugo",https://cdn.sofifa.org/teams/2/light/110831.png
+C00245,"Gimnàstic de Tarragona",https://cdn.sofifa.org/teams/2/light/15019.png
+C00246,"Albacete BP",https://cdn.sofifa.org/teams/2/light/1854.png
+C00247,"CD Numancia",https://cdn.sofifa.org/teams/2/light/477.png
+C00248,"Sevilla FC",https://cdn.sofifa.org/teams/2/light/481.png
+C00249,"Deportivo de La Coruña",https://cdn.sofifa.org/teams/2/light/242.png
+C00250,"Atlético Madrid",https://cdn.sofifa.org/teams/2/light/240.png
+C00251,"CD Leganés",https://cdn.sofifa.org/teams/2/light/100888.png
+C00252,"Legia Warszawa",https://cdn.sofifa.org/teams/2/light/1871.png
+C00253,"CA Osasuna",https://cdn.sofifa.org/teams/2/light/479.png
+C00254,"Spartak Moscow",https://cdn.sofifa.org/teams/2/light/100767.png
+C00255,"Lokomotiv Moscow",https://cdn.sofifa.org/teams/2/light/100765.png
+C00256,"PFC CSKA Moscow",https://cdn.sofifa.org/teams/2/light/315.png
+C00257,"Málaga CF",https://cdn.sofifa.org/teams/2/light/573.png
+C00258,"Lechia Gda?sk",https://cdn.sofifa.org/teams/2/light/111091.png
+C00259,"KSV Cercle Brugge",https://cdn.sofifa.org/teams/2/light/1750.png
+C00260,"Al Hilal",https://cdn.sofifa.org/teams/2/light/605.png
+C00261,"Odds BK",https://cdn.sofifa.org/teams/2/light/1456.png
+C00262,"Sandefjord Fotball",https://cdn.sofifa.org/teams/2/light/1757.png
+C00263,"Strømsgodset IF",https://cdn.sofifa.org/teams/2/light/922.png
+C00264,Ajax,https://cdn.sofifa.org/teams/2/light/245.png
+C00265,"VfL Wolfsburg",https://cdn.sofifa.org/teams/2/light/175.png
+C00266,Foggia,https://cdn.sofifa.org/teams/2/light/110911.png
+C00267,Crotone,https://cdn.sofifa.org/teams/2/light/110734.png
+C00268,"Melbourne Victory",https://cdn.sofifa.org/teams/2/light/111397.png
+C00269,Torino,https://cdn.sofifa.org/teams/2/light/54.png
+C00270,Dundalk,https://cdn.sofifa.org/teams/2/light/837.png
+C00271,"SV Werder Bremen",https://cdn.sofifa.org/teams/2/light/38.png
+C00272,"VfB Stuttgart",https://cdn.sofifa.org/teams/2/light/36.png
+C00273,"Vissel Kobe",https://cdn.sofifa.org/teams/2/light/101146.png
+C00274,"OGC Nice",https://cdn.sofifa.org/teams/2/light/72.png
+C00275,"Sporting de Charleroi",https://cdn.sofifa.org/teams/2/light/670.png
+C00276,"Paris FC",https://cdn.sofifa.org/teams/2/light/111817.png
+C00277,"Esbjerg fB",https://cdn.sofifa.org/teams/2/light/1445.png
+C00278,Southampton,https://cdn.sofifa.org/teams/2/light/17.png
+C00279,"SCR Altach",https://cdn.sofifa.org/teams/2/light/15009.png
+C00280,"Bayer 04 Leverkusen",https://cdn.sofifa.org/teams/2/light/32.png
+C00281,Portsmouth,https://cdn.sofifa.org/teams/2/light/1790.png
+C00282,"Molde FK",https://cdn.sofifa.org/teams/2/light/417.png
+C00283,Gillingham,https://cdn.sofifa.org/teams/2/light/1802.png
+C00284,"Accrington Stanley",https://cdn.sofifa.org/teams/2/light/110313.png
+C00285,"Crystal Palace",https://cdn.sofifa.org/teams/2/light/1799.png
+C00286,"Cheltenham Town",https://cdn.sofifa.org/teams/2/light/1936.png
+C00287,"Norwich City",https://cdn.sofifa.org/teams/2/light/1792.png
+C00288,"Henan Jianye FC",https://cdn.sofifa.org/teams/2/light/111779.png
+C00289,"FC Barcelona",https://cdn.sofifa.org/teams/2/light/241.png
+C00290,"Coventry City",https://cdn.sofifa.org/teams/2/light/1800.png
+C00291,"Waterford FC",https://cdn.sofifa.org/teams/2/light/753.png
+C00292,"Minnesota United FC",https://cdn.sofifa.org/teams/2/light/111138.png
+C00293,"FC Lorient",https://cdn.sofifa.org/teams/2/light/217.png
+C00294,"Seattle Sounders FC",https://cdn.sofifa.org/teams/2/light/111144.png
+C00295,"Manchester United",https://cdn.sofifa.org/teams/2/light/11.png
+C00296,"Deportivo Cali",https://cdn.sofifa.org/teams/2/light/101102.png
+C00297,"Deportivo Toluca",https://cdn.sofifa.org/teams/2/light/1882.png
+C00298,Sampdoria,https://cdn.sofifa.org/teams/2/light/1837.png
+C00299,"?l?sk Wroc?aw",https://cdn.sofifa.org/teams/2/light/111092.png
+C00300,"Club Atlético Banfield",https://cdn.sofifa.org/teams/2/light/110404.png
+C00301,"Newell's Old Boys",https://cdn.sofifa.org/teams/2/light/110396.png
+C00302,"Mied? Legnica",https://cdn.sofifa.org/teams/2/light/112505.png
+C00303,"Tigres U.A.N.L.",https://cdn.sofifa.org/teams/2/light/1970.png
+C00304,"Montpellier HSC",https://cdn.sofifa.org/teams/2/light/70.png
+C00305,"Al Qadisiyah",https://cdn.sofifa.org/teams/2/light/112391.png
+C00306,"Racing Club de Lens",https://cdn.sofifa.org/teams/2/light/64.png
+C00307,"Dijon FCO",https://cdn.sofifa.org/teams/2/light/110569.png
+C00308,"Getafe CF",https://cdn.sofifa.org/teams/2/light/1860.png
+C00309,"Wis?a P?ock",https://cdn.sofifa.org/teams/2/light/1569.png
+C00310,"Stabæk Fotball",https://cdn.sofifa.org/teams/2/light/917.png
+C00311,"Sarpsborg 08 FF",https://cdn.sofifa.org/teams/2/light/112199.png
+C00312,"Gyeongnam FC",https://cdn.sofifa.org/teams/2/light/111588.png
+C00313,"VfL Bochum 1848",https://cdn.sofifa.org/teams/2/light/160.png
+C00314,"Piast Gliwice",https://cdn.sofifa.org/teams/2/light/111086.png
+C00315,"Al Shabab",https://cdn.sofifa.org/teams/2/light/111674.png
+C00316,"Hobro IK",https://cdn.sofifa.org/teams/2/light/112425.png
+C00317,"Sheffield United",https://cdn.sofifa.org/teams/2/light/1794.png
+C00318,"Odense Boldklub",https://cdn.sofifa.org/teams/2/light/272.png
+C00319,"Lech Pozna?",https://cdn.sofifa.org/teams/2/light/873.png
+C00320,"Sint-Truidense VV",https://cdn.sofifa.org/teams/2/light/680.png
+C00321,"Real Madrid",https://cdn.sofifa.org/teams/2/light/243.png
+C00322,"Toronto FC",https://cdn.sofifa.org/teams/2/light/111651.png
+C00323,"St. Mirren",https://cdn.sofifa.org/teams/2/light/100805.png
+C00324,"Central Coast Mariners",https://cdn.sofifa.org/teams/2/light/111396.png
+C00325,"Sparta Praha",https://cdn.sofifa.org/teams/2/light/267.png
+C00326,Aberdeen,https://cdn.sofifa.org/teams/2/light/77.png
+C00327,"HJK Helsinki",https://cdn.sofifa.org/teams/2/light/100325.png
+C00328,"FC Sion",https://cdn.sofifa.org/teams/2/light/110770.png
+C00329,"Cruz Azul",https://cdn.sofifa.org/teams/2/light/1878.png
+C00330," SSV Jahn Regensburg",https://cdn.sofifa.org/teams/2/light/543.png
+C00331,"Urawa Red Diamonds",https://cdn.sofifa.org/teams/2/light/111575.png
+C00332,"Yokohama F. Marinos",https://cdn.sofifa.org/teams/2/light/101151.png
+C00333,"Cerezo Osaka",https://cdn.sofifa.org/teams/2/light/101148.png
+C00334,"Atlético Tucumán",https://cdn.sofifa.org/teams/2/light/111708.png
+C00335,"FC Porto",https://cdn.sofifa.org/teams/2/light/236.png
+C00336,"FC Bayern München",https://cdn.sofifa.org/teams/2/light/21.png
+C00337,"Göztepe SK",https://cdn.sofifa.org/teams/2/light/101026.png
+C00338,"Kalmar FF",https://cdn.sofifa.org/teams/2/light/1439.png
+C00339,"Charlton Athletic",https://cdn.sofifa.org/teams/2/light/89.png
+C00340,"Deportivo Pasto",https://cdn.sofifa.org/teams/2/light/111723.png
+C00341,"Royal Excel Mouscron",https://cdn.sofifa.org/teams/2/light/111560.png
+C00342,"Tiburones Rojos de Veracruz",https://cdn.sofifa.org/teams/2/light/110145.png
+C00343,"St. Patrick's Athletic",https://cdn.sofifa.org/teams/2/light/423.png
+C00344,"Real Oviedo",https://cdn.sofifa.org/teams/2/light/110827.png
+C00345,"Levante UD",https://cdn.sofifa.org/teams/2/light/1853.png
+C00346,Napoli,https://cdn.sofifa.org/teams/2/light/48.png
+C00347,"Monarcas Morelia",https://cdn.sofifa.org/teams/2/light/1028.png
+C00348,"MSV Duisburg",https://cdn.sofifa.org/teams/2/light/1825.png
+C00349,"TSV 1860 München",https://cdn.sofifa.org/teams/2/light/33.png
+C00350,"Sanfrecce Hiroshima",https://cdn.sofifa.org/teams/2/light/113157.png
+C00351,"Eintracht Frankfurt",https://cdn.sofifa.org/teams/2/light/1824.png
+C00352,Patronato,https://cdn.sofifa.org/teams/2/light/110581.png
+C00353,"Hamburger SV",https://cdn.sofifa.org/teams/2/light/28.png
+C00354,"SK Rapid Wien",https://cdn.sofifa.org/teams/2/light/254.png
+C00355,"1. FC Union Berlin",https://cdn.sofifa.org/teams/2/light/1831.png
+C00356,"Sydney FC",https://cdn.sofifa.org/teams/2/light/111400.png
+C00357,"Guangzhou Evergrande Taobao FC",https://cdn.sofifa.org/teams/2/light/111839.png
+C00358,"Beijing Renhe FC",https://cdn.sofifa.org/teams/2/light/112537.png
+C00359,"KAA Gent",https://cdn.sofifa.org/teams/2/light/674.png
+C00360,"Club América",https://cdn.sofifa.org/teams/2/light/1879.png
+C00361,"Santos Laguna",https://cdn.sofifa.org/teams/2/light/110144.png
+C00362,"AS Saint-Étienne",https://cdn.sofifa.org/teams/2/light/1819.png
+C00363,"1. FC Köln",https://cdn.sofifa.org/teams/2/light/31.png
+C00364,"CD Aves",https://cdn.sofifa.org/teams/2/light/666.png
+C00365,"Hannover 96",https://cdn.sofifa.org/teams/2/light/485.png
+C00366,"San Martin de Tucumán",https://cdn.sofifa.org/teams/2/light/111714.png
+C00367,"Deportes Iquique",https://cdn.sofifa.org/teams/2/light/112531.png
+C00368,"FC Utrecht",https://cdn.sofifa.org/teams/2/light/1903.png
+C00369,"Carlisle United",https://cdn.sofifa.org/teams/2/light/1480.png
+C00370,"SKN St. Pölten",https://cdn.sofifa.org/teams/2/light/112075.png
+C00371,PAOK,https://cdn.sofifa.org/teams/2/light/393.png
+C00372,Milan,https://cdn.sofifa.org/teams/2/light/47.png
+C00373,"Argentinos Juniors",https://cdn.sofifa.org/teams/2/light/111019.png
+C00374,"Wellington Phoenix",https://cdn.sofifa.org/teams/2/light/111766.png
+C00375,"San Luis de Quillota",https://cdn.sofifa.org/teams/2/light/112668.png
+C00376,"Stade de Reims",https://cdn.sofifa.org/teams/2/light/379.png
+C00377,"Curicó Unido",https://cdn.sofifa.org/teams/2/light/112655.png
+C00378,"Independiente Santa Fe",https://cdn.sofifa.org/teams/2/light/101104.png
+C00379,"Western Sydney Wanderers",https://cdn.sofifa.org/teams/2/light/112427.png
+C00380,"AFC Wimbledon",https://cdn.sofifa.org/teams/2/light/112259.png
+C00381,"Melbourne City FC",https://cdn.sofifa.org/teams/2/light/112224.png
+C00382,"Real Salt Lake",https://cdn.sofifa.org/teams/2/light/111065.png
+C00383,"Stade Rennais FC",https://cdn.sofifa.org/teams/2/light/74.png
+C00384,"Junior FC",https://cdn.sofifa.org/teams/2/light/101101.png
+C00385,"Puebla FC",https://cdn.sofifa.org/teams/2/light/110152.png
+C00386,"Real Betis",https://cdn.sofifa.org/teams/2/light/449.png
+C00387,"Mansfield Town",https://cdn.sofifa.org/teams/2/light/1940.png
+C00388,Udinese,https://cdn.sofifa.org/teams/2/light/55.png
+C00389,"Jagiellonia Bia?ystok",https://cdn.sofifa.org/teams/2/light/110745.png
+C00390,"FK Austria Wien",https://cdn.sofifa.org/teams/2/light/256.png
+C00391,"Zag??bie Lubin",https://cdn.sofifa.org/teams/2/light/110749.png
+C00392,"Club León",https://cdn.sofifa.org/teams/2/light/110781.png
+C00393,Inter,https://cdn.sofifa.org/teams/2/light/44.png
+C00394,"Real Zaragoza",https://cdn.sofifa.org/teams/2/light/244.png
+C00395,"DC United",https://cdn.sofifa.org/teams/2/light/688.png
+C00396,Independiente,https://cdn.sofifa.org/teams/2/light/110093.png
+C00397,"AC Ajaccio",https://cdn.sofifa.org/teams/2/light/614.png
+C00398,"Royal Antwerp FC",https://cdn.sofifa.org/teams/2/light/230.png
+C00399,"Changchun Yatai FC",https://cdn.sofifa.org/teams/2/light/111769.png
+C00400,"Portland Timbers",https://cdn.sofifa.org/teams/2/light/111140.png
+C00401,"Al Ittihad",https://cdn.sofifa.org/teams/2/light/607.png
+C00402,"Wolverhampton Wanderers",https://cdn.sofifa.org/teams/2/light/110.png
+C00403,"Adelaide United",https://cdn.sofifa.org/teams/2/light/111393.png
+C00404,"Colorado Rapids",https://cdn.sofifa.org/teams/2/light/694.png
+C00405,Walsall,https://cdn.sofifa.org/teams/2/light/1803.png
+C00406,"Orlando City SC",https://cdn.sofifa.org/teams/2/light/112606.png
+C00407,SPAL,https://cdn.sofifa.org/teams/2/light/112791.png
+C00408,Shrewsbury,https://cdn.sofifa.org/teams/2/light/127.png
+C00409,"Preston North End",https://cdn.sofifa.org/teams/2/light/1801.png
+C00410,"Vendsyssel FF",https://cdn.sofifa.org/teams/2/light/111660.png
+C00411,"Luton Town",https://cdn.sofifa.org/teams/2/light/1923.png
+C00412,"Wigan Athletic",https://cdn.sofifa.org/teams/2/light/1917.png
+C00413,"KV Oostende",https://cdn.sofifa.org/teams/2/light/682.png
+C00414,"AS Nancy Lorraine",https://cdn.sofifa.org/teams/2/light/1823.png
+C00415,"Bristol Rovers",https://cdn.sofifa.org/teams/2/light/1962.png
+C00416,Everton,https://cdn.sofifa.org/teams/2/light/7.png
+C00417,"Malmö FF",https://cdn.sofifa.org/teams/2/light/320.png
+C00418,"RC Celta",https://cdn.sofifa.org/teams/2/light/450.png
+C00419,"Arka Gdynia",https://cdn.sofifa.org/teams/2/light/111082.png
+C00420,Bury,https://cdn.sofifa.org/teams/2/light/1945.png
+C00421,Ascoli,https://cdn.sofifa.org/teams/2/light/1847.png
+C00422,"Atlanta United",https://cdn.sofifa.org/teams/2/light/112885.png
+C00423,"San Jose Earthquakes",https://cdn.sofifa.org/teams/2/light/111928.png
+C00424,"Vancouver Whitecaps FC",https://cdn.sofifa.org/teams/2/light/101112.png
+C00425,"Toulouse Football Club",https://cdn.sofifa.org/teams/2/light/1809.png
+C00426,Fiorentina,https://cdn.sofifa.org/teams/2/light/110374.png
+C00427,VVV-Venlo,https://cdn.sofifa.org/teams/2/light/100651.png
+C00428,Lazio,https://cdn.sofifa.org/teams/2/light/46.png
+C00429,"US Orléans Loiret Football",https://cdn.sofifa.org/teams/2/light/112276.png
+C00430,"IK Start",https://cdn.sofifa.org/teams/2/light/1524.png
+C00431,"Bray Wanderers",https://cdn.sofifa.org/teams/2/light/838.png
+C00432,"Jiangsu Suning FC",https://cdn.sofifa.org/teams/2/light/112162.png
+C00433,"Al Nassr",https://cdn.sofifa.org/teams/2/light/112139.png
+C00434,"Al Taawoun",https://cdn.sofifa.org/teams/2/light/112393.png
+C00435,"Audax Italiano",https://cdn.sofifa.org/teams/2/light/101097.png
+C00436,"Jeju United FC",https://cdn.sofifa.org/teams/2/light/1478.png
+C00437,"FC Seoul",https://cdn.sofifa.org/teams/2/light/982.png
+C00438,"Jeonnam Dragons",https://cdn.sofifa.org/teams/2/light/1475.png
+C00439,"Bohemian FC",https://cdn.sofifa.org/teams/2/light/305.png
+C00440,"New York Red Bulls",https://cdn.sofifa.org/teams/2/light/689.png
+C00441,"Real Sporting de Gijón",https://cdn.sofifa.org/teams/2/light/459.png
+C00442,"Tromsø IL",https://cdn.sofifa.org/teams/2/light/418.png
+C00443,Motherwell,https://cdn.sofifa.org/teams/2/light/83.png
+C00444,"Los Angeles FC",https://cdn.sofifa.org/teams/2/light/112996.png
+C00445,Monterrey,https://cdn.sofifa.org/teams/2/light/1032.png
+C00446,"Rosenborg BK",https://cdn.sofifa.org/teams/2/light/298.png
+C00447,"Yeni Malatyaspor",https://cdn.sofifa.org/teams/2/light/113259.png
+C00448,"Newcastle United",https://cdn.sofifa.org/teams/2/light/13.png
+C00449,"En Avant de Guingamp",https://cdn.sofifa.org/teams/2/light/62.png
+C00450,"SL Benfica",https://cdn.sofifa.org/teams/2/light/234.png
+C00451,"Atlético Nacional",https://cdn.sofifa.org/teams/2/light/101100.png
+C00452,"SV Mattersburg",https://cdn.sofifa.org/teams/2/light/1785.png
+C00453,"AZ Alkmaar",https://cdn.sofifa.org/teams/2/light/1906.png
+C00454,"SV Sandhausen",https://cdn.sofifa.org/teams/2/light/110178.png
+C00455,"Hammarby IF",https://cdn.sofifa.org/teams/2/light/708.png
+C00456,"Stade Malherbe Caen",https://cdn.sofifa.org/teams/2/light/210.png
+C00457,"FC Basel 1893",https://cdn.sofifa.org/teams/2/light/896.png
+C00458,"Al Wehda",https://cdn.sofifa.org/teams/2/light/112408.png
+C00459,"FC St. Pauli",https://cdn.sofifa.org/teams/2/light/110329.png
+C00460,"Al Raed",https://cdn.sofifa.org/teams/2/light/112392.png
+C00461,"Shanghai Greenland Shenhua FC",https://cdn.sofifa.org/teams/2/light/110955.png
+C00462,"Willem II",https://cdn.sofifa.org/teams/2/light/1907.png
+C00463,Feyenoord,https://cdn.sofifa.org/teams/2/light/246.png
+C00464,"SV Wehen Wiesbaden",https://cdn.sofifa.org/teams/2/light/492.png
+C00465,U.N.A.M.,https://cdn.sofifa.org/teams/2/light/1881.png
+C00466,"TSV Hartberg",https://cdn.sofifa.org/teams/2/light/2017.png
+C00467,"1. FC Magdeburg",https://cdn.sofifa.org/teams/2/light/110588.png
+C00468,"Club Atlas",https://cdn.sofifa.org/teams/2/light/101114.png
+C00469,"Limerick FC",https://cdn.sofifa.org/teams/2/light/111285.png
+C00470,"Tranmere Rovers",https://cdn.sofifa.org/teams/2/light/15048.png
+C00471,"Forest Green Rovers",https://cdn.sofifa.org/teams/2/light/561.png
+C00472,"Huddersfield Town",https://cdn.sofifa.org/teams/2/light/1939.png
+C00473,"Tianjin TEDA FC",https://cdn.sofifa.org/teams/2/light/111774.png
+C00474,"Colchester United",https://cdn.sofifa.org/teams/2/light/1935.png
+C00475,"Córdoba CF",https://cdn.sofifa.org/teams/2/light/1867.png
+C00476,"Grenoble Foot 38",https://cdn.sofifa.org/teams/2/light/1805.png
+C00477,"Valencia CF",https://cdn.sofifa.org/teams/2/light/461.png
+C00478,"FC Energie Cottbus",https://cdn.sofifa.org/teams/2/light/162.png
+C00479,"FC Würzburger Kickers",https://cdn.sofifa.org/teams/2/light/110197.png
+C00480,"Universidad Católica",https://cdn.sofifa.org/teams/2/light/110975.png
+C00481,"FC Thun",https://cdn.sofifa.org/teams/2/light/1715.png
+C00482,"SD Huesca",https://cdn.sofifa.org/teams/2/light/110839.png
+C00483,"Extremadura UD",https://cdn.sofifa.org/teams/2/light/469.png
+C00484,"Cambridge United",https://cdn.sofifa.org/teams/2/light/1944.png
+C00485,"Newcastle Jets",https://cdn.sofifa.org/teams/2/light/111398.png
+C00486,"CF Reus Deportiu",https://cdn.sofifa.org/teams/2/light/110854.png
+C00487,"Rio Ave FC",https://cdn.sofifa.org/teams/2/light/744.png
+C00488,"New England Revolution",https://cdn.sofifa.org/teams/2/light/691.png
+C00489,"Vitória de Setúbal",https://cdn.sofifa.org/teams/2/light/665.png
+C00490,"Deportivo Alavés",https://cdn.sofifa.org/teams/2/light/463.png
+C00491,"FC Emmen",https://cdn.sofifa.org/teams/2/light/100628.png
+C00492,"Aarhus GF",https://cdn.sofifa.org/teams/2/light/271.png
+C00493,"SG Dynamo Dresden",https://cdn.sofifa.org/teams/2/light/503.png
+C00494,"Peterborough United",https://cdn.sofifa.org/teams/2/light/1938.png
+C00495,"Club Deportes Temuco",https://cdn.sofifa.org/teams/2/light/112709.png
+C00496,"FC Zürich",https://cdn.sofifa.org/teams/2/light/894.png
+C00497,"Swansea City",https://cdn.sofifa.org/teams/2/light/1960.png
+C00498,"Crawley Town",https://cdn.sofifa.org/teams/2/light/110890.png
+C00499,"Borussia Dortmund",https://cdn.sofifa.org/teams/2/light/22.png
+C00500,"Zag??bie Sosnowiec",https://cdn.sofifa.org/teams/2/light/111089.png
+C00501,"Atlético Bucaramanga",https://cdn.sofifa.org/teams/2/light/112992.png
+C00502,"CD Huachipato",https://cdn.sofifa.org/teams/2/light/111327.png
+C00503,"Granada CF",https://cdn.sofifa.org/teams/2/light/110832.png
+C00504,Fulham,https://cdn.sofifa.org/teams/2/light/144.png
+C00505,"Boavista FC",https://cdn.sofifa.org/teams/2/light/1898.png
+C00506,"Tianjin Quanjian FC",https://cdn.sofifa.org/teams/2/light/112983.png
+C00507,"CD Tondela",https://cdn.sofifa.org/teams/2/light/112516.png
+C00508,"FK Bodø/Glimt",https://cdn.sofifa.org/teams/2/light/918.png
+C00509,"SG Sonnenhof Großaspach",https://cdn.sofifa.org/teams/2/light/111379.png
+C00510,"UD Almería",https://cdn.sofifa.org/teams/2/light/1861.png
+C00511,"Al Faisaly",https://cdn.sofifa.org/teams/2/light/112389.png
+C00512,"Club Brugge KV",https://cdn.sofifa.org/teams/2/light/231.png
+C00513,"Guangzhou R&F; FC",https://cdn.sofifa.org/teams/2/light/112429.png
+C00514,"VfL Osnabrück",https://cdn.sofifa.org/teams/2/light/487.png
+C00515,Cracovia,https://cdn.sofifa.org/teams/2/light/110747.png
+C00516,"Kawasaki Frontale",https://cdn.sofifa.org/teams/2/light/111730.png
+C00517,"Millonarios FC",https://cdn.sofifa.org/teams/2/light/101105.png
+C00518,"AEK Athens",https://cdn.sofifa.org/teams/2/light/278.png
+C00519,"Atlético Huila",https://cdn.sofifa.org/teams/2/light/112528.png
+C00520,"Rionegro Águilas",https://cdn.sofifa.org/teams/2/light/112578.png
+C00521,"KFC Uerdingen 05",https://cdn.sofifa.org/teams/2/light/167.png
+C00522,"Trelleborgs FF",https://cdn.sofifa.org/teams/2/light/703.png
+C00523,"Dalkurd FF",https://cdn.sofifa.org/teams/2/light/113876.png
+C00524,"Kristiansund BK",https://cdn.sofifa.org/teams/2/light/113459.png
+C00525,"Unión La Calera",https://cdn.sofifa.org/teams/2/light/112535.png
+C00526,"IK Sirius",https://cdn.sofifa.org/teams/2/light/113458.png
+C00527,"Amiens SC",https://cdn.sofifa.org/teams/2/light/1816.png
+C00528,"1. FC Heidenheim 1846",https://cdn.sofifa.org/teams/2/light/111235.png
+C00529,"Os Belenenses",https://cdn.sofifa.org/teams/2/light/1889.png
+C00530,"Philadelphia Union",https://cdn.sofifa.org/teams/2/light/112134.png
+C00531,"1. FC Nürnberg",https://cdn.sofifa.org/teams/2/light/171.png
+C00532,"FC Hansa Rostock",https://cdn.sofifa.org/teams/2/light/27.png
+C00533,"VfR Aalen",https://cdn.sofifa.org/teams/2/light/550.png
+C00534,"SV Meppen",https://cdn.sofifa.org/teams/2/light/110597.png
+C00535,"Olympiacos CFP",https://cdn.sofifa.org/teams/2/light/280.png
+C00536,Cosenza,https://cdn.sofifa.org/teams/2/light/112168.png
+C00537,"Angers SCO",https://cdn.sofifa.org/teams/2/light/1530.png
+C00538,"ADO Den Haag",https://cdn.sofifa.org/teams/2/light/650.png
+C00539,Bursaspor,https://cdn.sofifa.org/teams/2/light/742.png
+C00540,"Moreirense FC",https://cdn.sofifa.org/teams/2/light/1900.png
+C00541,"GD Chaves",https://cdn.sofifa.org/teams/2/light/518.png
+C00542,"Dinamo Zagreb",https://cdn.sofifa.org/teams/2/light/211.png
+C00543,"Leeds United",https://cdn.sofifa.org/teams/2/light/8.png
+C00544,Querétaro,https://cdn.sofifa.org/teams/2/light/110150.png
+C00545,"Sporting Kansas City",https://cdn.sofifa.org/teams/2/light/696.png
+C00546,"Orlando Pirates",https://cdn.sofifa.org/teams/2/light/110930.png
+C00547,"SV Darmstadt 98",https://cdn.sofifa.org/teams/2/light/110502.png
+C00548,"Daegu FC",https://cdn.sofifa.org/teams/2/light/2056.png
+C00549,"Brøndby IF",https://cdn.sofifa.org/teams/2/light/269.png
+C00550,"Chongqing Dangdai Lifan FC SWM Team",https://cdn.sofifa.org/teams/2/light/112165.png
+C00551,"Incheon United FC",https://cdn.sofifa.org/teams/2/light/110765.png
+C00552,"RC Strasbourg Alsace",https://cdn.sofifa.org/teams/2/light/76.png
+C00553,"Sagan Tosu",https://cdn.sofifa.org/teams/2/light/113160.png
+C00554,"SK Slavia Praha",https://cdn.sofifa.org/teams/2/light/266.png
+C00555,"Örebro SK",https://cdn.sofifa.org/teams/2/light/705.png
+C00556,"Kashiwa Reysol",https://cdn.sofifa.org/teams/2/light/101145.png
+C00557,"Portimonense SC",https://cdn.sofifa.org/teams/2/light/10031.png
+C00558,"PEC Zwolle",https://cdn.sofifa.org/teams/2/light/1914.png
+C00559,"KRC Genk",https://cdn.sofifa.org/teams/2/light/673.png
+C00560,"Shanghai SIPG FC",https://cdn.sofifa.org/teams/2/light/112540.png
+C00561,"Dalian YiFang FC",https://cdn.sofifa.org/teams/2/light/112378.png
+C00562,"IFK Göteborg",https://cdn.sofifa.org/teams/2/light/319.png
+C00563,"Lillestrøm SK",https://cdn.sofifa.org/teams/2/light/299.png
+C00564,Cittadella,https://cdn.sofifa.org/teams/2/light/111993.png
+C00565,"Nîmes Olympique",https://cdn.sofifa.org/teams/2/light/224.png
+C00566,"TSG 1899 Hoffenheim",https://cdn.sofifa.org/teams/2/light/10029.png
+C00567,"Independiente Medellín",https://cdn.sofifa.org/teams/2/light/101103.png
+C00568,"SC Preußen Münster",https://cdn.sofifa.org/teams/2/light/531.png
+C00569,"Stade Brestois 29",https://cdn.sofifa.org/teams/2/light/378.png
+C00570,PSV,https://cdn.sofifa.org/teams/2/light/247.png
+C00571,"Holstein Kiel",https://cdn.sofifa.org/teams/2/light/576.png
+C00572,"LOSC Lille",https://cdn.sofifa.org/teams/2/light/65.png
+C00573,"Sligo Rovers",https://cdn.sofifa.org/teams/2/light/563.png
+C00574,"V-Varen Nagasaki",https://cdn.sofifa.org/teams/2/light/112448.png
+C00575,"SC Freiburg",https://cdn.sofifa.org/teams/2/light/25.png
+C00576,Palermo,https://cdn.sofifa.org/teams/2/light/1843.png
+C00577,"FC Admira Wacker Mödling",https://cdn.sofifa.org/teams/2/light/111821.png
+C00578,"Chamois Niortais Football Club",https://cdn.sofifa.org/teams/2/light/1813.png
+C00579,"Clermont Foot 63",https://cdn.sofifa.org/teams/2/light/1815.png
+C00580,"Panathinaikos FC",https://cdn.sofifa.org/teams/2/light/1884.png
+C00581,"Djurgårdens IF",https://cdn.sofifa.org/teams/2/light/710.png
+C00582,"FC Carl Zeiss Jena",https://cdn.sofifa.org/teams/2/light/110591.png
+C00583,"FC Nantes",https://cdn.sofifa.org/teams/2/light/71.png
+C00584,Perugia,https://cdn.sofifa.org/teams/2/light/199.png
+C00585,Brentford,https://cdn.sofifa.org/teams/2/light/1925.png
+C00586,"De Graafschap",https://cdn.sofifa.org/teams/2/light/635.png
+C00587,"Pohang Steelers",https://cdn.sofifa.org/teams/2/light/1474.png
+C00588,"RB Leipzig",https://cdn.sofifa.org/teams/2/light/112172.png
+C00589,"Club Atlético Lanús",https://cdn.sofifa.org/teams/2/light/110395.png
+C00590,Waasland-Beveren,https://cdn.sofifa.org/teams/2/light/110913.png
+C00591,"Heracles Almelo",https://cdn.sofifa.org/teams/2/light/100634.png
+C00592,"Hokkaido Consadole Sapporo",https://cdn.sofifa.org/teams/2/light/112444.png
+C00593,"Dynamo Kyiv",https://cdn.sofifa.org/teams/2/light/101047.png
+C00594,"SC Braga",https://cdn.sofifa.org/teams/2/light/1896.png
+C00595,"DSC Arminia Bielefeld",https://cdn.sofifa.org/teams/2/light/159.png
+C00596,Carpi,https://cdn.sofifa.org/teams/2/light/112409.png
+C00597,"IFK Norrköping",https://cdn.sofifa.org/teams/2/light/702.png
+C00598,"GIF Sundsvall",https://cdn.sofifa.org/teams/2/light/1596.png
+C00599,"Boyacá Chicó FC",https://cdn.sofifa.org/teams/2/light/112019.png
+C00600,"SK Sturm Graz",https://cdn.sofifa.org/teams/2/light/209.png
+C00601,"Vitória Guimarães",https://cdn.sofifa.org/teams/2/light/1887.png
+C00602,"CD Antofagasta",https://cdn.sofifa.org/teams/2/light/112533.png
+C00603,"AS Béziers",https://cdn.sofifa.org/teams/2/light/113948.png
+C00604,"Al Batin",https://cdn.sofifa.org/teams/2/light/112990.png
+C00605,"Korona Kielce",https://cdn.sofifa.org/teams/2/light/111083.png
+C00606,"IF Brommapojkarna",https://cdn.sofifa.org/teams/2/light/111705.png
+C00607,"CD Everton de Viña del Mar",https://cdn.sofifa.org/teams/2/light/112584.png
+C00608,"Grasshopper Club Zürich",https://cdn.sofifa.org/teams/2/light/322.png
+C00609,"FC Sochaux-Montbéliard",https://cdn.sofifa.org/teams/2/light/226.png
+C00610,"Al Fateh",https://cdn.sofifa.org/teams/2/light/112390.png
+C00611,"Ranheim Fotball",https://cdn.sofifa.org/teams/2/light/112200.png
+C00612,"Kaizer Chiefs",https://cdn.sofifa.org/teams/2/light/110929.png
+C00613,"FC Groningen",https://cdn.sofifa.org/teams/2/light/1915.png
+C00614,"VfL Sportfreunde Lotte",https://cdn.sofifa.org/teams/2/light/110700.png
+C00615,"Vegalta Sendai",https://cdn.sofifa.org/teams/2/light/112836.png
+C00616,"Clube Sport Marítimo",https://cdn.sofifa.org/teams/2/light/1893.png
+C00617,"La Equidad",https://cdn.sofifa.org/teams/2/light/112523.png
+C00618,"Jaguares de Córdoba",https://cdn.sofifa.org/teams/2/light/112903.png
+C00619,"Al Hazem",https://cdn.sofifa.org/teams/2/light/113222.png
+C00620,"FC Tokyo",https://cdn.sofifa.org/teams/2/light/101150.png
+C00621,"Östersunds FK",https://cdn.sofifa.org/teams/2/light/113173.png
+C00622,"Vejle Boldklub",https://cdn.sofifa.org/teams/2/light/822.png
+C00623,"Alianza Petrolera",https://cdn.sofifa.org/teams/2/light/112579.png
+C00624,"Ettifaq FC",https://cdn.sofifa.org/teams/2/light/112096.png
+C00625,"Unión Española",https://cdn.sofifa.org/teams/2/light/110977.png
+C00626,"Envigado FC",https://cdn.sofifa.org/teams/2/light/112526.png
+C00627,"Deportes Tolima",https://cdn.sofifa.org/teams/2/light/111722.png
+C00628,"FC Nordsjælland",https://cdn.sofifa.org/teams/2/light/1788.png
+C00629,"Fortuna Sittard",https://cdn.sofifa.org/teams/2/light/634.png
+C00630,"Sangju Sangmu FC",https://cdn.sofifa.org/teams/2/light/2055.png
+C00631,Barnsley,https://cdn.sofifa.org/teams/2/light/1932.png
+C00632,"Once Caldas",https://cdn.sofifa.org/teams/2/light/101106.png
+C00633,"Hallescher FC",https://cdn.sofifa.org/teams/2/light/110482.png
+C00634,"Godoy Cruz",https://cdn.sofifa.org/teams/2/light/111706.png
+C00635,"Itagüí Leones FC",https://cdn.sofifa.org/teams/2/light/112970.png
+C00636,"Ohod Club",https://cdn.sofifa.org/teams/2/light/113219.png
+C00637,Paraná,https://cdn.sofifa.org/teams/2/light/111048.png
+C00638,Cruzeiro,https://cdn.sofifa.org/teams/2/light/568.png
+C00639,Bahia,https://cdn.sofifa.org/teams/2/light/1598.png
+C00640,"América FC (Minas Gerais)",https://cdn.sofifa.org/teams/2/light/112001.png
+C00641,Grêmio,https://cdn.sofifa.org/teams/2/light/1629.png
+C00642,"Ceará Sporting Club",https://cdn.sofifa.org/teams/2/light/111059.png
+C00643,Vitória,https://cdn.sofifa.org/teams/2/light/1719.png
+C00644,"Atlético Mineiro",https://cdn.sofifa.org/teams/2/light/1035.png
+C00645,"Sport Club do Recife",https://cdn.sofifa.org/teams/2/light/111057.png
+C00646,Internacional,https://cdn.sofifa.org/teams/2/light/1048.png
+C00647,"Atlético Paranaense",https://cdn.sofifa.org/teams/2/light/1039.png
+C00648,Fluminense,https://cdn.sofifa.org/teams/2/light/567.png
+C00649,Botafogo,https://cdn.sofifa.org/teams/2/light/517.png
+C00650,Santos,https://cdn.sofifa.org/teams/2/light/1053.png
+C00651,Chapecoense,https://cdn.sofifa.org/teams/2/light/112476.png

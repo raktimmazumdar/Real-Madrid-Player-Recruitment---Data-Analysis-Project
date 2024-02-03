@@ -1,0 +1,276 @@
+Problem Statement: 
+	Player Attribute Analysis and Recruitment Strategy for Real Madrid CF.
+Real Madrid CF, one of the world's premier football clubs, is strategically planning to bolster its squad following the recent departure of key players. The club's objective is to make 
+three targeted signings for the striker, central attacking midfielder (CAM), and left-wing (LW) positions to reinforce squad depth and sustain its competitive edge. A budget of 200 
+million Euros has been allocated for these acquisitions.
+
+Modified Approach:
+
+	Prior to finalizing player acquisitions, the club aims to conduct a comprehensive analysis of player attributes and career trends using Power BI visualizations. The key areas of 
+analysis include. 
+
+	Player Performance Trends: We will delve into individual player data to identify trends related to player performance for each of the three positions—striker, CAM, and LW. This 
+	analysis will reveal the age range during which players typically reach the pinnacle of their careers in these positions.
+
+	Key Positional Attributes: We will determine the critical attributes that significantly influence player success in these roles. This analysis will help prioritize attributes such 
+	as shooting accuracy, passing ability, dribbling skills, defensive capabilities, and more.
+
+	Development Trajectories: By comparing players' current ratings with their potential ratings, we can assess their development trajectories. This evaluation will aid in identifying 
+	young talents who have the potential to become top-performing players.
+
+	Budget Optimization: We will evaluate players not only based on their skillset but also considering their market value, wage demands, and potential return on investment. This will 
+	ensure that player acquisitions align with Real Madrid CF's financial constraints.
+
+	Strategic Recruitment: Along with data-driven insights into ideal player attributes and career trends, the club will strategically recruit young talents aged 25 or younger(subject 
+	ot the detailed analysis of the trends and statistics), with an overall rating of at least 70 and a potential rating of at least 80. These players are expected to make an 
+	immediate impact on the team's performance while ensuring budget adherence.
+
+	By conducting this thorough analysis of player attributes and career trends, Real Madrid CF aims to make informed and strategic recruitment decisions that not only fulfill positional 
+requirements but also align with the club's long-term objectives. This data-driven approach ensures that the selected players not only meet performance criteria but also possess attributes 
+that complement the team's style of play and future aspirations.
+
+Column Names(106):
+
+	Player_ID,Name,Age,Photo,Nationality,Flag,Overall,Potential,Club,Club,Logo,Player Value(Euros),Wage(Euros),Special,Preferred,Foot,International Reputation,Weak Foot,Skill Moves,Work Rate,
+Body Type,Position,Jersey Number,Joined,Contract Valid Until,LS Current,LS Potential,ST Current,ST Potential,RS Current,RS Potential,LW Current,LW Potential,LF Current,LF Potential,CF Current,
+CF Potential,RF Current,RF Potential,RW Current,RW Potential,LAM Current,LAM Potential,CAM Current,CAM Potential,RAM Current,RAM Potential,LM Current,LM Potential,LCM Current,LCM Potential,
+CM Current,CM Potential,RCM Current,RCM Potential,RM Current,RM Potential,LWB Current,LWB Potential,LDM Current,LDM Potential,CDM Current,CDM Potential,RDM Current,RDM Potential,RWB Current,
+RWB Potential,LB Current,LB Potential,LCB Current,LCB Potential,CB Current,CB Potential,RCB Current,RCB Potential,RB Current,RB Potential,Crossing,Finishing,HeadingAccuracy,ShortPassing,
+Volleys,Dribbling,Curve,FKAccuracy,LongPassing,BallControl,Acceleration,SprintSpeed,Agility,Reactions,Balance,ShotPower,Jumping,Stamina,Strength,LongShots,Aggression,Interceptions,
+Positioning,Vision,Penalties,Composure,Marking,StandingTackle,SlidingTackle,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes
+
+Process:  
+
+	1. Originally, I planned to do the data cleaning in MySQL. But when I tried to import the csv file to mysql, it was taking long time
+to get imported. Then I decided to clean the data a bit in excel itself to reduce the import time. 
+	
+	2. The "date of joining the current club" column was given in string format. I converted them into proper date format by using the following 
+formula: 
+	=DATE(RIGHT(V1,4),MATCH(LEFT(V1,3),{"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"},0),MID(V1,FIND(" ",V1)+1,FIND(",",V1)-FIND(" ",V1)-1))
+
+	3. Then there were players value, release clause and wages columns, which were given in string format too with millions and thousands euros. 
+I have changed them to proper number format(to ease up the importing process) keeping the amount of price intact. I used the following formula for this:
+	 =IF(RIGHT(M2, 1)="K", SUBSTITUTE(M2, "K", "")*1000, IF(RIGHT(M2, 1)="M", SUBSTITUTE(M2, "M", "")*1000000, M2))
+
+	4. Importing the csv file to mysql: As there are more than 18000 records in the file, I choose to upload the file through 
+command prompt command to make it quick. I actually tried to upload the file with the help of import table wizard option in mysql. 
+It was taking a lot of time. However when I used command prompt, it took only a few seconds to load the full data. I used the following 
+method to import the file: 
+
+	cd (mysql bin directory path);
+	mysql - u root -p;
+	(enter password)
+        SET GLOBAL local_infile =1;
+	quit;
+	mysql --local-infile=1 -u root -p
+	(enter password);
+	LOAD DATA LOCAL INFILE 'file location on your system'
+	INTO TABLE Players
+	FIELDS TERMINATED BY ','
+	ENCLOSED BY '"'
+	LINES TERMINATED BY '\n'
+	IGNORE 1 LINES; 
+
+*Note: While trying to upload the file it was showing errors like: ERROR 1300 (HY000): Invalid utf8mb4 character string: 'FC Bayern M' as there are some special characters that were not
+supported by mysql. So I changed the encoding of the file to utf-8. Then the error was resolved. 
+
+
+
+
+
+I have the fifa data set with these 106 columns and more than 18000 unique records: 
+Player_ID
+Name
+Age
+Photo
+Nationality
+Flag
+Overall
+Potential
+Club
+Club Logo
+Player Value(Euros)
+Wage(Euros)
+Preferred Foot
+International Reputation
+Weak Foot
+Skill Moves
+Work Rate
+Body Type
+Position
+Jersey Number
+LS Current
+LS Potential
+ST Current
+ST Potential
+RS Current
+RS Potential
+LW Current
+LW Potential
+LF Current
+LF Potential
+CF Current
+CF Potential
+RF Current
+RF Potential
+RW Current
+RW Potential
+LAM Current
+LAM Potential
+CAM Current
+CAM Potential
+RAM Current
+RAM Potential
+LM Current
+LM Potential
+LCM Current
+LCM Potential
+CM Current
+CM Potential
+RCM Current
+RCM Potential
+RM Current
+RM Potential
+LWB Current
+LWB Potential
+LDM Current
+LDM Potential
+CDM Current
+CDM Potential
+RDM Current
+RDM Potential
+RWB Current
+RWB Potential
+LB Current
+LB Potential
+LCB Current
+LCB Potential
+CB Current
+CB Potential
+RCB Current
+RCB Potential
+RB Current
+RB Potential
+Crossing
+Finishing
+HeadingAccuracy
+ShortPassing
+Volleys
+Dribbling
+Curve
+FKAccuracy
+LongPassing
+BallControl
+Acceleration
+SprintSpeed
+Agility
+Reactions
+Balance
+ShotPower
+Jumping
+Stamina
+Strength
+LongShots
+Aggression
+Interceptions
+Positioning
+Vision
+Penalties
+Composure
+Marking
+StandingTackle
+SlidingTackle
+GKDiving
+GKHandling
+GKKicking
+GKPositioning
+GKReflexes
+
+Fact Table:
+
+Player Performance Fact Table:
+Primary Key: Player_ID
+Foreign Key: Club_ID
+Foreign Key: Position_ID
+Foreign Key: Nationality_ID
+Foreign Key: WorkRate_ID
+Foreign Key: BodyType_ID
+Contains columns such as Overall Rating, Potential Rating, Value, Wage, International Reputation, Weak Foot Rating, Skill Moves Rating, and all player attribute ratings (e.g., Crossing, Finishing, etc.).
+Dimension Tables:
+
+Players Dimension Table:
+
+Primary Key: Player_ID
+Contains columns like Name, Age, Preferred Foot, Jersey Number, Height, Weight, Date Joined the Current Club, Release Clause, and other player-specific information.
+Clubs Dimension Table:
+
+Primary Key: Club_ID
+Contains columns for Club Name.
+Positions Dimension Table:
+
+Primary Key: Position_ID
+Contains columns for Playing Position.
+Nationalities Dimension Table:
+
+Primary Key: Nationality_ID
+Contains columns for Nationality.
+WorkRates Dimension Table:
+
+Primary Key: WorkRate_ID
+Contains columns for Work Rate.
+BodyTypes Dimension Table:
+
+Primary Key: BodyType_ID
+Contains columns for Body Type.
+
+
+visuals: 
+
+1. Total Players
+2. Total no of forwards
+3. Total defenders
+4. Total Midfielders
+5. Total no of forwards for Real Madrid
+6. Total defenders for Real Madrid
+7. Total Midfielders for Real Madrid
+8. Average rating for forwards of Real Madrid
+9. Average rating Defenders of Real Madrid
+10. Average rating for Midfielders of Real Madrid
+
+
+__________________________________________________________________________________
+
+Conclusion:
+
+Real Madrid CF's data-driven approach to player recruitment and analysis has provided valuable insights for making informed decisions to reinforce the squad in key positions. The comprehensive analysis focused on player performance trends, key positional attributes, development trajectories, budget optimization, and strategic recruitment. Here are the key conclusions derived from the findings:
+
+1. **Total Players and Position Breakdown:**
+   - The dataset comprises 18,207 players, with specific attention to 2,668 forwards, 5,701 defenders, and 7,813 midfielders.
+   - Real Madrid CF aims to make strategic acquisitions within a 200 million Euro budget, targeting 33 players, including 5 forwards, 12 defenders, and 12 midfielders.
+
+2. **Player Age and Peak Performance:**
+   - Analysis indicates that player potential steadily increases from age 20 to 26, peaking between the age range of 30-34. This insight helps identify the prime age for recruitment.
+
+3. **Current Squad Age Distribution:**
+   - The current squad's average age is approximately 27 for goalkeepers, 24.20 for forwards, and 23.50 for both defenders and midfielders. This information aids in aligning new signings with the existing team dynamics.
+
+4. **Work Rate and Overall Ratings:**
+   - For forwards, players with low/medium and high/high work rates have the highest ratings.
+   - Midfielders with high/high and medium/high work rates exhibit the highest overall ratings.
+   - Defenders with high/high and high/low work rates have the highest overall ratings. This insight guides recruitment based on work rate preferences.
+
+5. **International Reputation and Overall Ratings:**
+   - International ratings (1-5) correlate positively with overall ratings. This suggests that players with higher overall ratings tend to have a better international reputation.
+
+6. **Key Influencers Visual:**
+   - Top attributes influencing forwards include finishing, positioning, shot power, ball control, and reactions, identifying players like K. Mbappe, L. Martinez, and L. Jovic as potential targets.
+   - Key attributes for midfielders encompass ball control, reactions, short passing, dribbling, vision, and crossing, highlighting J. Sancho, M. Odegaard, and K. Havertz as suitable targets.
+   - Defenders' key attributes include standing tackle, marking, interceptions, heading accuracy, and reactions, guiding the recruitment focus towards M. de Ligt, D. Upamecano, and Eder Militao.
+
+7. **Budget Allocations:**
+   - Real Madrid CF will allocate funds strategically, considering both player skillsets and financial aspects such as market value, wage demands, and potential return on investment.
+
+In conclusion, the data analysis project equips Real Madrid CF with a data-driven recruitment strategy, ensuring acquisitions align not only with positional requirements but also with the club's long-term objectives. The GitHub project incorporates detailed findings and recommendations to guide the club in making impactful and strategic player signings.
+
+
+
