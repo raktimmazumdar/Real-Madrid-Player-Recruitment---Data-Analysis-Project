@@ -4,14 +4,14 @@
 
 ### Problem Statement: 
 Real Madrid CF, one of the world's premier football clubs, is strategically planning to bolster its squad following the recent departure of key players. The club's objective is to make 
-three targeted signings for the striker(ST), central attacking midfielder(CAM), and left-wing(LW) positions to reinforce squad depth and sustain its competitive edge. A budget of 200 
+three targeted signings for the Striker(ST), central attacking midfielder(CAM), and left-wing(LW) positions to reinforce squad depth and sustain its competitive edge. A budget of 200 
 million Euros has been allocated for these acquisitions.
 
 ### Approach:
 Prior to finalizing player acquisitions, the club aims to conduct a comprehensive analysis of player attributes and career trends using Power BI visualizations. The key areas of 
 analysis include. 
 
-Player Performance Trends: We will delve into individual player data to identify trends related to player performance for each of the three positions—striker, CAM, and LW. This 
+Player Performance Trends: We will delve into individual player data to identify trends related to player performance for each of the three positions—ST, CAM, and LW. This 
 analysis will reveal the age range during which players typically reach the pinnacle of their careers in these positions.
 
 Key Positional Attributes: We will determine the critical attributes that significantly influence player success in these roles. This analysis will help prioritize attributes such 
