@@ -49,7 +49,7 @@ The dataset has been loaded and processed in the Power Query Editor. In order to
 The tables utilized for this analysis can be linked through a star schema with one Fact Table and four dimension tables. 
 However, for the sake of the project three other tables are connect as a snowflake connection to get the desired output(Radar chart Visual). 
 
-1.  ***Fact Table:*** Players_fact
+1.  ***Fact Table:*** 'Players_fact'
 
 2. ***Dimension Tables:*** Positions_dim, Clubs_dim, Nationality_dim, Players_Attributes_dim
 
@@ -60,23 +60,31 @@ Apart from these tables, there are one more table in the data model containing a
 
 The Data Model is shown below: 
 
-![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Power%20BI%20Data%20Model.JPG)
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Data%20Model.JPG)
 
 ## F. Data Visualization/ Dashboard in Power BI: 
 
 The dashboard created is shown below- 
 
-## ***1. Executive Dashboard***
-![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Executive%20Dashboard(Main%20Page).JPG)
+## ***1. Home Page***
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Home%20Page.JPG)
 
-## ***2. Customers and Orders Details(Transactions)***
-![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Customers%20and%20Orders%20Details(Transactions).JPG)
+## ***2. Forwards Details***
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Forward%20Page.JPG)
 
-## ***3. Map Visuals***
-![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Map%20Visuals.JPG)
+## ***3. Mid-fielders Details***
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Midfielder%20Page.JPG)
+
+## ***4. Deferdars Details***
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Defenders%20Page.JPG)
+
+## ***5. Radar Charts Preview*** 
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Forward%20Page%20with%20Radar%20Chart.JPG)
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Midfielder%20Page%20with%20Radar%20Chart.JPG)
+![alt text](https://github.com/raktimmazumdar/Real-Madrid-Player-Recruitment---Data-Analysis-Project/blob/master/ScreenShots/Defenders%20Page%20with%20Radar%20Chart.JPG)
 
 
-## H. Conclusion
+## G. Findings
 
 Real Madrid CF's data-driven approach to player recruitment and analysis has provided valuable insights for making informed decisions to reinforce the squad in key positions. The comprehensive analysis focused on player performance trends, key positional attributes, development trajectories, budget optimization, and strategic recruitment. Here are the key conclusions derived from the findings:
 
@@ -109,11 +117,19 @@ Top attributes influencing forwards include finishing, positioning, shot power, 
 Key attributes for midfielders encompass ball control, reactions, short passing, dribbling, vision, and crossing, highlighting J. Sancho, M. Odegaard, and K. Havertz as suitable targets.
 Defenders' key attributes include standing tackle, marking, interceptions, heading accuracy, and reactions, guiding the recruitment focus towards M. de Ligt, D. Upamecano, and Eder Militao.
 
-### Budget Allocations:
+### 7. Budget Allocations:
 
 Real Madrid CF will allocate funds strategically, considering both player skillsets and financial aspects such as market value, wage demands, and potential return on investment.
 In conclusion, the data analysis project equips Real Madrid CF with a data-driven recruitment strategy, ensuring acquisitions align not only with positional requirements but also with the club's long-term objectives. The GitHub project incorporates detailed findings and recommendations to guide the club in making impactful and strategic player signings.
 
-## **The Results can be further modified as per requirements by adjusting the slicers provided in the report. Feel free to **
+### **The Results can be further modified as per requirements by adjusting the slicers provided in the report.**
+
+## H. Conclusion
+
+Hopefully with these findings and questions answered, I'll be able to help Real Madrid CF gain better insights into their players recruitment strategy and know how to optimize available opportunities for the recruitment process. Also, working  with this dataset expanded my understanding of club football hiring processes and in turn enhancing my proficiency in Power BI DAX, data modeling and dashboard creation. 
+
+Feel free to explore the data and analysis results for a deeper understanding of Strategic Player Recruitment Analysis of Real Madrid CF. 
+For any questions or feedback, please contact me at raktimmazumdar11@gmail.com.
+
 
 # **Best of Luck.** 👍
