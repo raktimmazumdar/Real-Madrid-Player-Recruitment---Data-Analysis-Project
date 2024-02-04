@@ -49,7 +49,7 @@ The dataset has been loaded and processed in the Power Query Editor. In order to
 The tables utilized for this analysis can be linked through a star schema with one Fact Table and four dimension tables. 
 However, for the sake of the project three other tables are connect as a snowflake connection to get the desired output(Radar chart Visual). 
 
-1.  ***Fact Table:*** 'Players_fact'
+1.  ***Fact Table:*** '''Players_fact'''
 
 2. ***Dimension Tables:*** Positions_dim, Clubs_dim, Nationality_dim, Players_Attributes_dim
 
