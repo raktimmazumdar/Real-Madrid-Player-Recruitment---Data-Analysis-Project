@@ -8,57 +8,55 @@ three targeted signings for the striker(ST), central attacking midfielder(CAM), 
 million Euros has been allocated for these acquisitions.
 
 ### Approach:
-	Prior to finalizing player acquisitions, the club aims to conduct a comprehensive analysis of player attributes and career trends using Power BI visualizations. The key areas of 
+Prior to finalizing player acquisitions, the club aims to conduct a comprehensive analysis of player attributes and career trends using Power BI visualizations. The key areas of 
 analysis include. 
 
-	Player Performance Trends: We will delve into individual player data to identify trends related to player performance for each of the three positions—striker, CAM, and LW. This 
-	analysis will reveal the age range during which players typically reach the pinnacle of their careers in these positions.
+Player Performance Trends: We will delve into individual player data to identify trends related to player performance for each of the three positions—striker, CAM, and LW. This 
+analysis will reveal the age range during which players typically reach the pinnacle of their careers in these positions.
 
-	Key Positional Attributes: We will determine the critical attributes that significantly influence player success in these roles. This analysis will help prioritize attributes such 
-	as shooting accuracy, passing ability, dribbling skills, defensive capabilities, and more.
+Key Positional Attributes: We will determine the critical attributes that significantly influence player success in these roles. This analysis will help prioritize attributes such 
+as shooting accuracy, passing ability, dribbling skills, defensive capabilities, and more.
 
-	Development Trajectories: By comparing players' current ratings with their potential ratings, we can assess their development trajectories. This evaluation will aid in identifying 
-	young talents who have the potential to become top-performing players.
+Development Trajectories: By comparing players' current ratings with their potential ratings, we can assess their development trajectories. This evaluation will aid in identifying 
+young talents who have the potential to become top-performing players.
 
-	Budget Optimization: We will evaluate players not only based on their skillset but also considering their market value, wage demands, and potential return on investment. This will 
-	ensure that player acquisitions align with Real Madrid CF's financial constraints.
+Budget Optimization: We will evaluate players not only based on their skillset but also considering their market value, wage demands, and potential return on investment. This will 
+ensure that player acquisitions align with Real Madrid CF's financial constraints.
 
-	Strategic Recruitment: Along with data-driven insights into ideal player attributes and career trends, the club will strategically recruit young talents aged 25 or younger(subject 
-	ot the detailed analysis of the trends and statistics), with an overall rating of at least 70 and a potential rating of at least 80. These players are expected to make an 
-	immediate impact on the team's performance while ensuring budget adherence.
+Strategic Recruitment: Along with data-driven insights into ideal player attributes and career trends, the club will strategically recruit young talents aged 25 or younger(subject 
+ot the detailed analysis of the trends and statistics), with an overall rating of at least 70 and a potential rating of at least 80. These players are expected to make an immediate impact on the team's performance while ensuring budget adherence.
 
-	By conducting this thorough analysis of player attributes and career trends, Real Madrid CF aims to make informed and strategic recruitment decisions that not only fulfill positional 
+By conducting this thorough analysis of player attributes and career trends, Real Madrid CF aims to make informed and strategic recruitment decisions that not only fulfill positional 
 requirements but also align with the club's long-term objectives. This data-driven approach ensures that the selected players not only meet performance criteria but also possess attributes 
 that complement the team's style of play and future aspirations.
 
 ## B. About the Dataset  
-
-The dataset has information on 100,000 orders from 2016 to 2018 made at multiple marketplaces in Brazil. The orders include details such as order status, price, payment, freight performance to customer location, product attribute, and reviews written by customers. The geolocation data is associated to Brazilian zip codes with latitude and longitude coordinates.
-
-This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced.
+The dataset used for Real Madrid CF's player recruitment strategy comprises FIFA player information as of 2018. It contains details such as player names, ages, nationalities, and current club affiliations. Positional focus is emphasized, with specific attention to strikers (ST), central attacking midfielders (CAM), and left-wingers (LW). Player performance is assessed through overall and potential ratings, offering insights into current skill levels and future potential. Financial aspects are considered with data on player wages and market values, aiding in budget optimization for acquisitions. The dataset also captures player attributes specific to their positions, encompassing skills like shooting accuracy, passing ability, and defensive capabilities. 
+With a total budget of 200 million Euros allocated for three targeted signings, this dataset serves as a comprehensive resource for conducting a nuanced analysis to guide informed recruitment decisions
 
 ## C. Software Used 
 
 1. Microsoft Excel
 2. Microsoft Power BI
+3. Python
 
 ## D. Data Reviewing and Cleaning
 
-The dataset has been loaded and processed in the Power Query Editor. In order to facilitate better recognition, I had to promote headers for most of the dataset since Power Query initially struggled to identify them. Additionally, I adjusted the data types for many entries. To enhance clarity and user-friendliness, I replaced technical jargon with more understandable terms, particularly in the "product_category_name_translation" file. 
+The dataset has been loaded and processed in the Power Query Editor. In order to facilitate better recognition, I had to adjust the data types for many entries such as date of joining, wages and values. To enhance clarity and user-friendliness, I replaced the unknown characters with more understandable terms, particularly in the "Players_fact" file. 
 
 ## E. Data Modelling in Power BI
 
-The tables utilized for this analysis can be linked through a star schema with one Fact Table and five dimension tables. 
-However, for the sake of the project three other tables are connect as a snowflake connection to get the desired output. 
+The tables utilized for this analysis can be linked through a star schema with one Fact Table and four dimension tables. 
+However, for the sake of the project three other tables are connect as a snowflake connection to get the desired output(Radar chart Visual). 
 
-1.  ***Fact Table:*** fact_order_items
+1.  ***Fact Table:*** Players_fact
 
-2. ***Dimension Tables:*** dim_reviews, dim_payments, dim_products, dim_sellers, dim_status
+2. ***Dimension Tables:*** Positions_dim, Clubs_dim, Nationality_dim, Players_Attributes_dim
 
-3. ***Snowflake Tables:*** dim_geolocation(connected between dim_seller, dim_customers), dim_customers(connect to dim_geolocation), dim_date(connected to dim_status) 
+3. ***Snowflake Tables:*** Players_attributes_RadarChart(connected to Players_Attributes_dim via Player_id key)
 
 ## ***Note:*** 
-Apart from these tables, there are two more tables in the data model. One with all the measurements created for the project and one table containing product category name translations to simplify the product category names.
+Apart from these tables, there are one more table in the data model containing all the measurements created for the project.
 
 The Data Model is shown below: 
 
@@ -77,60 +75,45 @@ The dashboard created is shown below-
 ## ***3. Map Visuals***
 ![alt text](https://github.com/raktimmazumdar/Data-Analysis-for-Olist-Brazilian-E-Commerce-/blob/main/ScreenShots/Map%20Visuals.JPG)
 
-## G. Report
 
-The findings for the project are as follows- 
+## H. Conclusion
 
-1. ***Steady Growth:*** Revenue has consistently increased over three years, peaking in November 2017, but a notable decline occurred in August and September 2018, warranting further analysis.
+Real Madrid CF's data-driven approach to player recruitment and analysis has provided valuable insights for making informed decisions to reinforce the squad in key positions. The comprehensive analysis focused on player performance trends, key positional attributes, development trajectories, budget optimization, and strategic recruitment. Here are the key conclusions derived from the findings:
 
-2. ***Customer Engagement:*** Positive customer experiences are evident, with 96K unique customers and an average rating of 4.09 across categories.
+### 1. Total Players and Position Breakdown:
 
-3. ***Seller Network:*** A diverse network of 3,095 sellers across Brazil contributes to a wide product range.
+The dataset comprises 18,207 players, with specific attention to 2,668 forwards, 5,701 defenders, and 7,813 midfielders.
+Real Madrid CF aims to make strategic acquisitions within a 200 million Euro budget, targeting 33 players, including 5 forwards, 12 defenders, and 12 midfielders.
 
-4. ***Category Dynamics:*** "Bed Bath and Table" dominates orders, while "Health Beauty" and "Watches Gift" lead in revenue.
+### 2. Player Age and Peak Performance:
 
-5. ***Regional Performance:*** São Paulo, Minas Gerais, and Paraná excel in orders and revenue, highlighting key regional strengths.
+Analysis indicates that player potential steadily increases from age 20 to 26, peaking between the age range of 30-34. This insight helps identify the prime age for recruitment.
 
-6. ***Order Patterns:*** 60.09% of orders are on weekdays, indicating weekday-focused purchasing behavior.
+### 3. Current Squad Age Distribution:
 
-7. ***Customer Concentration:*** São Paulo has the most customers, followed by Rio de Janeiro and Belo Horizonte.
+The current squad's average age is approximately 27 for goalkeepers, 24.20 for forwards, and 23.50 for both defenders and midfielders. This information aids in aligning new signings with the existing team dynamics.
 
-8. ***Payment Diversity:*** Credit cards are favored by most customers, while Boleto and Vouchers also play a significant role.
+### 4. Work Rate and Overall Ratings:
 
-9. ***Timely Deliveries:*** 93.23% of orders are delivered on time, contributing to customer satisfaction.
+For forwards, players with low/medium and high/high work rates have the highest ratings.
+Midfielders with high/high and medium/high work rates exhibit the highest overall ratings.
+Defenders with high/high and high/low work rates have the highest overall ratings. This insight guides recruitment based on work rate preferences.
 
-10. ***Order Status:*** Most orders (97.34%) are successfully completed, addressing the remaining processing and canceled orders can enhance efficiency.
+### 5. International Reputation and Overall Ratings:
 
+International ratings (1-5) correlate positively with overall ratings. This suggests that players with higher overall ratings tend to have a better international reputation.
 
-## H. Suggestions
+### 6. Key Influencers Visual:
 
-1. ***Uncover the Dips:***  Let's dive into the reasons behind the noticeable revenue drop in August and September 2018. By understanding the triggers, we can steer clear of such dips in the future and ensure steady growth.
+Top attributes influencing forwards include finishing, positioning, shot power, ball control, and reactions, identifying players like K. Mbappe, L. Martinez, and L. Jovic as potential targets.
+Key attributes for midfielders encompass ball control, reactions, short passing, dribbling, vision, and crossing, highlighting J. Sancho, M. Odegaard, and K. Havertz as suitable targets.
+Defenders' key attributes include standing tackle, marking, interceptions, heading accuracy, and reactions, guiding the recruitment focus towards M. de Ligt, D. Upamecano, and Eder Militao.
 
-2. ***Nurture Categories:***  We can give some extra attention to categories that might not be shining as brightly. Through well-planned marketing efforts and engaging campaigns, we can bring them back into the spotlight and boost their performance.
+### Budget Allocations:
 
-3. ***Empower Reviews:***  Encouraging customers to share their experiences through reviews can have a ripple effect. Not only will this enhance credibility across categories, but it'll also build a stronger sense of trust with our customer base.
+Real Madrid CF will allocate funds strategically, considering both player skillsets and financial aspects such as market value, wage demands, and potential return on investment.
+In conclusion, the data analysis project equips Real Madrid CF with a data-driven recruitment strategy, ensuring acquisitions align not only with positional requirements but also with the club's long-term objectives. The GitHub project incorporates detailed findings and recommendations to guide the club in making impactful and strategic player signings.
 
-4. ***Expand Horizons:***  Exploring new regions where we're not as prominent could be an exciting step. By reaching out to untapped markets, we can broaden our reach and build a fresh customer base.
-
-5. ***Weekend Adventure:***  We've noticed a different rhythm in weekend purchasing behavior. Let's create some weekend-specific promotions to tap into this trend and make the most of these windows of opportunity.
-
-6. ***Seller Synergy:*** Our top-performing sellers are our champions, but we shouldn't forget the others. By offering support and collaboration, we can elevate the offerings of all our sellers, improving our overall marketplace.
-
-7. ***Payment Ease:***  More options mean more convenience for our customers. Collaborating with additional payment gateways can make the buying process smoother and more tailored to individual preferences.
-
-8. ***Process Precision:***  Our order processing pipeline could use some streamlining. Reducing the percentage of orders in processing status will not only expedite the process but also improve customer satisfaction.
-
-9. ***Localize Marketing:***  Different regions have different vibes. Tailoring our marketing strategies to each region's preferences can help us create deeper connections and boost customer acquisition.
-
-10. ***Operational Excellence:***  Keeping up our track record of on-time deliveries is crucial. By refining our inventory management and logistics, we can uphold our high standards while also optimizing costs.
-
-
-## Conclusions: 
-
-Hopefully with these findings and questions answered, I'll be able to help Olist gain better insights into their e-commerce platform and know how to optimize available opportunities for growth. Also, working  with this dataset expanded my understanding of e-commerce business metrics, enhancing my proficiency in Power BI DAX, data modeling and dashboard creation. 
-
-Feel free to explore the merged data and analysis results for a deeper understanding of Telangana's tourism landscape.
-For any questions or feedback, please contact me at raktimmazumdar11@gmail.com.
-
+## **The Results can be further modified as per requirements by adjusting the slicers provided in the report. Feel free to **
 
 # **Best of Luck.** 👍
