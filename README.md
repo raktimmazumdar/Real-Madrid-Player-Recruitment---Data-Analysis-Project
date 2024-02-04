@@ -36,9 +36,9 @@ With a total budget of 200 million Euros allocated for three targeted signings, 
 
 ## C. Software Used 
 
-1. Microsoft Excel
-2. Microsoft Power BI
-3. Python
+1. ```Microsoft Excel```
+2. ```Microsoft Power BI```
+3. ```Python```
 
 ## D. Data Reviewing and Cleaning
 
@@ -49,11 +49,11 @@ The dataset has been loaded and processed in the Power Query Editor. In order to
 The tables utilized for this analysis can be linked through a star schema with one Fact Table and four dimension tables. 
 However, for the sake of the project three other tables are connect as a snowflake connection to get the desired output(Radar chart Visual). 
 
-1.  ***Fact Table:*** '''Players_fact'''
+1.  ***Fact Table:*** ```Players_fact```
 
-2. ***Dimension Tables:*** Positions_dim, Clubs_dim, Nationality_dim, Players_Attributes_dim
+2. ***Dimension Tables:*** ```Positions_dim```, ```Clubs_dim```, ```Nationality_dim```, ```Players_Attributes_dim```
 
-3. ***Snowflake Tables:*** Players_attributes_RadarChart(connected to Players_Attributes_dim via Player_id key)
+3. ***Snowflake Tables:*** ```Players_attributes_RadarChart```(connected to Players_Attributes_dim via Player_id key)
 
 ## ***Note:*** 
 Apart from these tables, there are one more table in the data model containing all the measurements created for the project.
