@@ -39,6 +39,7 @@ With a total budget of 200 million Euros allocated for three targeted signings, 
 1. ```Microsoft Excel```
 2. ```Microsoft Power BI```
 3. ```Python```
+4. ```MySQL```
 
 ## D. Data Reviewing and Cleaning
 
